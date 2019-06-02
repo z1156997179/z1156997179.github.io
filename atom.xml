@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/z115699.git/atom.xml" rel="self"/>
   
-  <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2019-05-31T13:05:13.722Z</updated>
-  <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>404 Blog</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>电脑C#音乐下载器v1.3.0</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/31/%E7%94%B5%E8%84%91C#%E9%9F%B3%E4%B9%90%E4%B8%8B%E8%BD%BD%E5%99%A8v1.3.0/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/31/电脑C#音乐下载器v1.3.0/</id>
+    <link href="http://yoursite.com/2019/05/31/%E7%94%B5%E8%84%91C#%E9%9F%B3%E4%B9%90%E4%B8%8B%E8%BD%BD%E5%99%A8v1.3.0/"/>
+    <id>http://yoursite.com/2019/05/31/电脑C#音乐下载器v1.3.0/</id>
     <published>2019-05-31T12:47:46.000Z</published>
     <updated>2019-05-31T13:05:13.722Z</updated>
     
@@ -36,17 +36,17 @@
     
     </summary>
     
-      <category term="音乐" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E9%9F%B3%E4%B9%90/"/>
+      <category term="音乐" scheme="http://yoursite.com/categories/%E9%9F%B3%E4%B9%90/"/>
     
     
-      <category term="软件" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E8%BD%AF%E4%BB%B6/"/>
+      <category term="软件" scheme="http://yoursite.com/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
     <title>friend</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/30/friend/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/30/friend/</id>
+    <link href="http://yoursite.com/2019/05/30/friend/"/>
+    <id>http://yoursite.com/2019/05/30/friend/</id>
     <published>2019-05-29T17:17:56.000Z</published>
     <updated>2019-05-29T17:18:39.247Z</updated>
     
@@ -66,8 +66,8 @@
   
   <entry>
     <title>U盘修复工具</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/22/U%E7%9B%98%E4%BF%AE%E5%A4%8D%E5%B7%A5%E5%85%B7/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/22/U盘修复工具/</id>
+    <link href="http://yoursite.com/2019/05/22/U%E7%9B%98%E4%BF%AE%E5%A4%8D%E5%B7%A5%E5%85%B7/"/>
+    <id>http://yoursite.com/2019/05/22/U盘修复工具/</id>
     <published>2019-05-22T15:51:19.000Z</published>
     <updated>2019-05-22T16:15:43.465Z</updated>
     
@@ -79,17 +79,17 @@
     
     </summary>
     
-      <category term="软件" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E8%BD%AF%E4%BB%B6/"/>
+      <category term="软件" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="U盘修复" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/U%E7%9B%98%E4%BF%AE%E5%A4%8D/"/>
+      <category term="U盘修复" scheme="http://yoursite.com/tags/U%E7%9B%98%E4%BF%AE%E5%A4%8D/"/>
     
   </entry>
   
   <entry>
     <title>小米刷机工具售后版</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/22/%E5%B0%8F%E7%B1%B3%E5%88%B7%E6%9C%BA%E5%B7%A5%E5%85%B7%E5%94%AE%E5%90%8E%E7%89%88/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/22/小米刷机工具售后版/</id>
+    <link href="http://yoursite.com/2019/05/22/%E5%B0%8F%E7%B1%B3%E5%88%B7%E6%9C%BA%E5%B7%A5%E5%85%B7%E5%94%AE%E5%90%8E%E7%89%88/"/>
+    <id>http://yoursite.com/2019/05/22/小米刷机工具售后版/</id>
     <published>2019-05-22T14:01:03.000Z</published>
     <updated>2019-05-22T15:33:26.643Z</updated>
     
@@ -101,17 +101,17 @@
     
     </summary>
     
-      <category term="软件" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E8%BD%AF%E4%BB%B6/"/>
+      <category term="软件" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="小米" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E5%B0%8F%E7%B1%B3/"/>
+      <category term="小米" scheme="http://yoursite.com/tags/%E5%B0%8F%E7%B1%B3/"/>
     
   </entry>
   
   <entry>
     <title>MIWIFI PLUS</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/22/MIWIFI%20PLUS%EF%BC%88%E7%AE%80%E7%A7%B0MP%EF%BC%89%E4%B8%80%E6%AC%BE%E5%9F%BA%E4%BA%8E%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E9%A3%8E%E6%A0%BC%E7%9A%84Luci%E6%8F%92%E4%BB%B6/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/22/MIWIFI PLUS（简称MP）一款基于小米路由风格的Luci插件/</id>
+    <link href="http://yoursite.com/2019/05/22/MIWIFI%20PLUS%EF%BC%88%E7%AE%80%E7%A7%B0MP%EF%BC%89%E4%B8%80%E6%AC%BE%E5%9F%BA%E4%BA%8E%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E9%A3%8E%E6%A0%BC%E7%9A%84Luci%E6%8F%92%E4%BB%B6/"/>
+    <id>http://yoursite.com/2019/05/22/MIWIFI PLUS（简称MP）一款基于小米路由风格的Luci插件/</id>
     <published>2019-05-22T05:51:06.000Z</published>
     <updated>2019-05-22T06:24:43.169Z</updated>
     
@@ -123,19 +123,19 @@
     
     </summary>
     
-      <category term="软件" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E8%BD%AF%E4%BB%B6/"/>
+      <category term="软件" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="插件" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E6%8F%92%E4%BB%B6/"/>
+      <category term="插件" scheme="http://yoursite.com/tags/%E6%8F%92%E4%BB%B6/"/>
     
-      <category term="小米" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E5%B0%8F%E7%B1%B3/"/>
+      <category term="小米" scheme="http://yoursite.com/tags/%E5%B0%8F%E7%B1%B3/"/>
     
   </entry>
   
   <entry>
     <title>Visual Studio Code修改成中文</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/22/Visual%20Studio%20Code%E4%BF%AE%E6%94%B9%E6%88%90%E4%B8%AD%E6%96%87/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/22/Visual Studio Code修改成中文/</id>
+    <link href="http://yoursite.com/2019/05/22/Visual%20Studio%20Code%E4%BF%AE%E6%94%B9%E6%88%90%E4%B8%AD%E6%96%87/"/>
+    <id>http://yoursite.com/2019/05/22/Visual Studio Code修改成中文/</id>
     <published>2019-05-22T05:03:38.000Z</published>
     <updated>2019-05-22T06:26:12.171Z</updated>
     
@@ -147,19 +147,19 @@
     
     </summary>
     
-      <category term="学习笔记" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <category term="学习笔记" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="编辑器" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+      <category term="编辑器" scheme="http://yoursite.com/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
     
-      <category term="code" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/code/"/>
+      <category term="code" scheme="http://yoursite.com/tags/code/"/>
     
   </entry>
   
   <entry>
     <title>Markdown在线编辑器</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/22/Markdown%E5%9C%A8%E7%BA%BF%E7%BC%96%E8%BE%91%E5%99%A8/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/22/Markdown在线编辑器/</id>
+    <link href="http://yoursite.com/2019/05/22/Markdown%E5%9C%A8%E7%BA%BF%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    <id>http://yoursite.com/2019/05/22/Markdown在线编辑器/</id>
     <published>2019-05-22T02:38:13.000Z</published>
     <updated>2019-05-22T15:15:03.862Z</updated>
     
@@ -171,17 +171,17 @@
     
     </summary>
     
-      <category term="学习笔记" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <category term="学习笔记" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="编辑器" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+      <category term="编辑器" scheme="http://yoursite.com/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
     
   </entry>
   
   <entry>
     <title>协办员信息变更所需资料</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/19/%E5%8D%8F%E5%8A%9E%E5%91%98%E4%BF%A1%E6%81%AF%E5%8F%98%E6%9B%B4%E6%89%80%E9%9C%80%E8%B5%84%E6%96%99/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/19/协办员信息变更所需资料/</id>
+    <link href="http://yoursite.com/2019/05/19/%E5%8D%8F%E5%8A%9E%E5%91%98%E4%BF%A1%E6%81%AF%E5%8F%98%E6%9B%B4%E6%89%80%E9%9C%80%E8%B5%84%E6%96%99/"/>
+    <id>http://yoursite.com/2019/05/19/协办员信息变更所需资料/</id>
     <published>2019-05-19T02:13:35.000Z</published>
     <updated>2019-05-22T16:44:12.371Z</updated>
     
@@ -198,17 +198,17 @@
     
     </summary>
     
-      <category term="新闻" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E6%96%B0%E9%97%BB/"/>
+      <category term="新闻" scheme="http://yoursite.com/categories/%E6%96%B0%E9%97%BB/"/>
     
     
-      <category term="养老保险" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9/"/>
+      <category term="养老保险" scheme="http://yoursite.com/tags/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9/"/>
     
   </entry>
   
   <entry>
     <title>2017年养老保险退保</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/19/2017%E5%B9%B4%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E9%80%80%E4%BF%9D/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/19/2017年养老保险退保/</id>
+    <link href="http://yoursite.com/2019/05/19/2017%E5%B9%B4%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E9%80%80%E4%BF%9D/"/>
+    <id>http://yoursite.com/2019/05/19/2017年养老保险退保/</id>
     <published>2019-05-19T01:54:53.000Z</published>
     <updated>2019-05-22T17:20:31.944Z</updated>
     
@@ -220,19 +220,19 @@
     
     </summary>
     
-      <category term="新闻" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E6%96%B0%E9%97%BB/"/>
+      <category term="新闻" scheme="http://yoursite.com/categories/%E6%96%B0%E9%97%BB/"/>
     
     
-      <category term="养老保险" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9/"/>
+      <category term="养老保险" scheme="http://yoursite.com/tags/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9/"/>
     
-      <category term="退保" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E9%80%80%E4%BF%9D/"/>
+      <category term="退保" scheme="http://yoursite.com/tags/%E9%80%80%E4%BF%9D/"/>
     
   </entry>
   
   <entry>
     <title>养老保险收据规范</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/19/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E6%94%B6%E6%8D%AE%E8%A7%84%E8%8C%83/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/19/养老保险收据规范/</id>
+    <link href="http://yoursite.com/2019/05/19/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E6%94%B6%E6%8D%AE%E8%A7%84%E8%8C%83/"/>
+    <id>http://yoursite.com/2019/05/19/养老保险收据规范/</id>
     <published>2019-05-19T01:46:59.000Z</published>
     <updated>2019-05-22T16:45:38.643Z</updated>
     
@@ -253,17 +253,17 @@
     
     </summary>
     
-      <category term="新闻" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E6%96%B0%E9%97%BB/"/>
+      <category term="新闻" scheme="http://yoursite.com/categories/%E6%96%B0%E9%97%BB/"/>
     
     
-      <category term="养老保险" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9/"/>
+      <category term="养老保险" scheme="http://yoursite.com/tags/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9/"/>
     
   </entry>
   
   <entry>
     <title>养老保险注销表</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/19/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E6%B3%A8%E9%94%80%E8%A1%A8/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/19/养老保险注销表/</id>
+    <link href="http://yoursite.com/2019/05/19/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E6%B3%A8%E9%94%80%E8%A1%A8/"/>
+    <id>http://yoursite.com/2019/05/19/养老保险注销表/</id>
     <published>2019-05-19T01:38:09.000Z</published>
     <updated>2019-05-29T16:01:09.261Z</updated>
     
@@ -278,17 +278,17 @@
     
     </summary>
     
-      <category term="新闻" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E6%96%B0%E9%97%BB/"/>
+      <category term="新闻" scheme="http://yoursite.com/categories/%E6%96%B0%E9%97%BB/"/>
     
     
-      <category term="注销" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E6%B3%A8%E9%94%80/"/>
+      <category term="注销" scheme="http://yoursite.com/tags/%E6%B3%A8%E9%94%80/"/>
     
   </entry>
   
   <entry>
     <title>养老保险聘任审批表</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/19/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E8%81%98%E4%BB%BB%E5%AE%A1%E6%89%B9%E8%A1%A8/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/19/养老保险聘任审批表/</id>
+    <link href="http://yoursite.com/2019/05/19/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E8%81%98%E4%BB%BB%E5%AE%A1%E6%89%B9%E8%A1%A8/"/>
+    <id>http://yoursite.com/2019/05/19/养老保险聘任审批表/</id>
     <published>2019-05-19T01:37:09.000Z</published>
     <updated>2019-05-29T16:02:30.420Z</updated>
     
@@ -304,17 +304,17 @@
     
     </summary>
     
-      <category term="新闻" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E6%96%B0%E9%97%BB/"/>
+      <category term="新闻" scheme="http://yoursite.com/categories/%E6%96%B0%E9%97%BB/"/>
     
     
-      <category term="聘任" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E8%81%98%E4%BB%BB/"/>
+      <category term="聘任" scheme="http://yoursite.com/tags/%E8%81%98%E4%BB%BB/"/>
     
   </entry>
   
   <entry>
     <title>城乡居民基本养老保险参保登记表</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/19/%E5%9F%8E%E4%B9%A1%E5%B1%85%E6%B0%91%E5%9F%BA%E6%9C%AC%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E5%8F%82%E4%BF%9D%E7%99%BB%E8%AE%B0%E8%A1%A8/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/19/城乡居民基本养老保险参保登记表/</id>
+    <link href="http://yoursite.com/2019/05/19/%E5%9F%8E%E4%B9%A1%E5%B1%85%E6%B0%91%E5%9F%BA%E6%9C%AC%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E5%8F%82%E4%BF%9D%E7%99%BB%E8%AE%B0%E8%A1%A8/"/>
+    <id>http://yoursite.com/2019/05/19/城乡居民基本养老保险参保登记表/</id>
     <published>2019-05-19T01:35:43.000Z</published>
     <updated>2019-05-22T16:45:21.590Z</updated>
     
@@ -330,17 +330,17 @@
     
     </summary>
     
-      <category term="新闻" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E6%96%B0%E9%97%BB/"/>
+      <category term="新闻" scheme="http://yoursite.com/categories/%E6%96%B0%E9%97%BB/"/>
     
     
-      <category term="参保登记表" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E5%8F%82%E4%BF%9D%E7%99%BB%E8%AE%B0%E8%A1%A8/"/>
+      <category term="参保登记表" scheme="http://yoursite.com/tags/%E5%8F%82%E4%BF%9D%E7%99%BB%E8%AE%B0%E8%A1%A8/"/>
     
   </entry>
   
   <entry>
     <title>小米路由器MT工具箱</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/19/%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E5%99%A8MT%E5%B7%A5%E5%85%B7%E7%AE%B1/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/19/小米路由器MT工具箱/</id>
+    <link href="http://yoursite.com/2019/05/19/%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E5%99%A8MT%E5%B7%A5%E5%85%B7%E7%AE%B1/"/>
+    <id>http://yoursite.com/2019/05/19/小米路由器MT工具箱/</id>
     <published>2019-05-19T01:24:01.000Z</published>
     <updated>2019-05-22T17:29:18.670Z</updated>
     
@@ -354,21 +354,21 @@
     
     </summary>
     
-      <category term="软件工具" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+      <category term="软件工具" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="小米路由器" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E5%99%A8/"/>
+      <category term="小米路由器" scheme="http://yoursite.com/tags/%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E5%99%A8/"/>
     
   </entry>
   
   <entry>
     <title>hexo史上最全搭建教程</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/17/hexo%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/17/hexo史上最全搭建教程/</id>
+    <link href="http://yoursite.com/2019/05/17/hexo%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
+    <id>http://yoursite.com/2019/05/17/hexo史上最全搭建教程/</id>
     <published>2019-05-17T14:58:48.000Z</published>
     <updated>2019-05-22T17:21:10.874Z</updated>
     
-    <content type="html"><![CDATA[<p>现在市面上的博客很多，如CSDN，博客园，简书等平台，可以直接在上面发表，用户交互做的好，写的文章百度也能搜索的到。缺点是比较不自由，会受到平台的各种限制和恶心的广告。</p><a id="more"></a><p>而自己购买域名和服务器，搭建博客的成本实在是太高了，不光是说这些购买成本，单单是花力气去自己搭这么一个网站，还要定期的维护它，对于我们大多数人来说，实在是没有这样的精力和时间。</p><p>那么就有第三种选择，直接在github page平台上托管我们的博客。这样就可以安心的来写作，又不需要定期维护，而且hexo作为一个快速简洁的博客框架，用它来搭建博客真的非常容易。</p><p>Hexo简介<br>Hexo是一款基于Node.js的静态博客框架，依赖少易于安装使用，可以方便的生成静态网页托管在GitHub和Coding上，是搭建博客的首选框架。大家可以进入hexo官网进行详细查看，因为Hexo的创建者是台湾人，对中文的支持很友好，可以选择中文进行查看。</p><p>教程分三个部分，</p><p>第一部分：hexo的初级搭建还有部署到github page上，以及个人域名的绑定。<br>第二部分：hexo的基本配置，更换主题，实现多终端工作，以及在coding page部署实现国内外分流<br>第三部分：hexo添加各种功能，包括搜索的SEO，阅读量统计，访问量统计和评论系统等。<br>第一部分<br>hexo的初级搭建还有部署到github page上，以及个人域名的绑定。</p><p>Hexo简介<br>Hexo是一款基于Node.js的静态博客框架，依赖少易于安装使用，可以方便的生成静态网页托管在GitHub和Coding上，是搭建博客的首选框架。大家可以进入hexo官网进行详细查看，因为Hexo的创建者是台湾人，对中文的支持很友好，可以选择中文进行查看。</p><p>Hexo搭建步骤<br>安装Git<br>安装Node.js<br>安装Hexo<br>GitHub创建个人仓库<br>生成SSH添加到GitHub<br>将hexo部署到GitHub<br>设置个人域名<br>发布文章</p><ol><li>安装Git<br>Git是目前世界上最先进的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理。也就是用来管理你的hexo博客文章，上传到GitHub的工具。Git非常强大，我觉得建议每个人都去了解一下。廖雪峰老师的Git教程写的非常好，大家可以了解一下。Git教程</li></ol><p>windows：到git官网上下载,Download git,下载后会有一个Git Bash的命令行工具，以后就用这个工具来使用git。</p><p>linux：对linux来说实在是太简单了，因为最早的git就是在linux上编写的，只需要一行代码</p><pre><code>sudo apt-get install git安装好后，用git --version 来查看一下版本&lt;/p&gt;</code></pre><ol><li>安装nodejs<br>Hexo是基于nodeJS编写的，所以需要安装一下nodeJs和里面的npm工具。</li></ol><p>windows：nodejs选择LTS版本就行了。</p><p>linux：</p><pre><code>sudo apt-get install nodejs sudo apt-get install npm</code></pre><p>安装完后，打开命令行</p><pre><code>node -vnpm -v</code></pre><p>检查一下有没有安装成功</p><p>顺便说一下，windows在git安装完后，就可以直接使用git bash来敲命令行了，不用自带的cmd，cmd有点难用。</p><ol><li>安装hexo<br>前面git和nodejs安装好后，就可以安装hexo了，你可以先创建一个文件夹blog，然后cd到这个文件夹下（或者在这个文件夹下直接右键git bash打开）。</li></ol><p>输入命令</p><pre><code>npm install -g hexo-cli</code></pre><p>依旧用hexo -v查看一下版本</p><p>至此就全部安装完了。</p><p>接下来初始化一下hexo</p><pre><code>hexo init myblog</code></pre><p>这个myblog可以自己取什么名字都行，然后</p><pre><code>cd myblog //进入这个myblog文件夹 npm install</code></pre><p>新建完成后，指定文件夹目录下有：</p><pre><code>node_modules: 依赖包 public：存放生成的页面 scaffolds：生成文章的一些模板 source：用来存放你的文章 themes：主题 ** _config.yml: 博客的配置文件** hexo g hexo server</code></pre><p>打开hexo的服务，在浏览器输入localhost:4000就可以看到你生成的博客了。</p><p>大概长这样：</p><p>使用ctrl+c可以把服务关掉。</p><ol><li>GitHub创建个人仓库<br>首先，你先要有一个GitHub账户，去注册一个吧。</li></ol><p>注册完登录后，在GitHub.com中看到一个New repository，新建仓库</p><p>创建一个和你用户名相同的仓库，后面加.github.io，只有这样，将来要部署到GitHub page的时候，才会被识别，也就是xxxx.github.io，其中xxx就是你注册GitHub的用户名。我这里是已经建过了。</p><p>点击create repository。</p><ol><li><p>生成SSH添加到GitHub<br>回到你的git bash中，</p><p>git config –global user.name “yourname”<br>git config –global user.email “youremail”</p></li></ol><p>这里的yourname输入你的GitHub用户名，youremail输入你GitHub的邮箱。这样GitHub才能知道你是不是对应它的账户。</p><p>可以用以下两条，检查一下你有没有输对</p><pre><code>git config user.namegit config user.email</code></pre><p>然后创建SSH,一路回车</p><pre><code>ssh-keygen -t rsa -C &quot;youremail&quot;</code></pre><p>这个时候它会告诉你已经生成了.ssh的文件夹。在你的电脑中找到这个文件夹。</p><p>ssh，简单来讲，就是一个秘钥，其中，id_rsa是你这台电脑的私人秘钥，不能给别人看的，id_rsa.pub是公共秘钥，可以随便给别人看。把这个公钥放在GitHub上，这样当你链接GitHub自己的账户时，它就会根据公钥匹配你的私钥，当能够相互匹配时，才能够顺利的通过git上传你的文件到GitHub上。</p><p>而后在GitHub的setting中，找到SSH keys的设置选项，点击New SSH key<br>把你的id_rsa.pub里面的信息复制进去。</p><p>在gitbash中，查看是否成功</p><pre><code>ssh -T git@github.com</code></pre><ol><li><p>将hexo部署到GitHub<br>这一步，我们就可以将hexo和GitHub关联起来，也就是将hexo生成的文章部署到GitHub上，打开站点配置文件 _config.yml，翻到最后，修改为<br>YourgithubName就是你的GitHub账户</p><p>deploy:<br>   type: git<br>   repo: <a href="https://github.com/YourgithubName/YourgithubName.github.io.git" target="_blank" rel="noopener">https://github.com/YourgithubName/YourgithubName.github.io.git</a><br>   branch: master</p></li></ol><p>这个时候需要先安装deploy-git ，也就是部署的命令,这样你才能用命令部署到GitHub。</p><pre><code>npm install hexo-deployer-git --save</code></pre><p>然后</p><pre><code>hexo cleanhexo generatehexo deploy</code></pre><p>其中 hexo clean清除了你之前生成的东西，也可以不加。<br>hexo generate 顾名思义，生成静态文章，可以用 hexo g缩写<br>hexo deploy 部署文章，可以用hexo d缩写</p><p>注意deploy时可能要你输入username和password。</p><p>得到下图就说明部署成功了，过一会儿就可以在<a href="http://yourname.github.io" target="_blank" rel="noopener">http://yourname.github.io</a> 这个网站看到你的博客了！！</p><ol><li>设置个人域名<br>现在你的个人网站的地址是 yourname.github.io，如果觉得这个网址逼格不太够，这就需要你设置个人域名了。但是需要花钱。</li></ol><p>注册一个阿里云账户,在阿里云上买一个域名，我买的是 fangzh.top，各个后缀的价格不太一样，比如最广泛的.com就比较贵，看个人喜好咯。</p><p>你需要先去进行实名认证,然后在域名控制台中，看到你购买的域名。</p><p>点解析进去，添加解析。</p><p>其中，192.30.252.153 和 192.30.252.154 是GitHub的服务器地址。<br>注意，解析线路选择默认，不要像我一样选境外。这个境外是后面来做国内外分流用的,在后面的博客中会讲到。记得现在选择默认！！</p><p>登录GitHub，进入之前创建的仓库，点击settings，设置Custom domain，输入你的域名fangzh.top</p><p>然后在你的博客文件source中创建一个名为CNAME文件，不要后缀。写上你的域名。</p><p>最后，在gitbash中，输入</p><pre><code>hexo cleanhexo ghexo d</code></pre><p>过不了多久，再打开你的浏览器，输入你自己的域名，就可以看到搭建的网站啦！</p><p>接下来你就可以正式开始写文章了。</p><pre><code>hexo new newpapername</code></pre><p>然后在source/_post中打开markdown文件，就可以开始编辑了。当你写完的时候，再</p><pre><code>hexo cleanhexo ghexo d</code></pre><p>就可以看到更新了。</p><p>第二部分<br>hexo的基本配置，更换主题，实现多终端工作，以及在coding page部署实现国内外分流。</p><ol><li>hexo基本配置<br>在文件根目录下的_config.yml，就是整个hexo框架的配置文件了。可以在里面修改大部分的配置。详细可参考官方的配置描述。</li></ol><p>网站<br>参数 描述<br>title 网站标题<br>subtitle 网站副标题<br>description 网站描述<br>author 您的名字<br>language 网站使用的语言<br>timezone 网站时区。Hexo 默认使用您电脑的时区。时区列表。比如说：America/New_York, Japan, 和 UTC 。<br>其中，description主要用于SEO，告诉搜索引擎一个关于您站点的简单描述，通常建议在其中包含您网站的关键词。author参数用于主题显示文章的作者。</p><p>网址<br>参数 描述<br>url 网址<br>root 网站根目录<br>permalink 文章的 永久链接 格式<br>permalink_defaults 永久链接中各部分的默认值<br>在这里，你需要把url改成你的网站域名。</p><p>permalink，也就是你生成某个文章时的那个链接格式。</p><p>比如我新建一个文章叫temp.md，那么这个时候他自动生成的地址就是<a href="http://yoursite.com/2018/09/05/temp。" target="_blank" rel="noopener">http://yoursite.com/2018/09/05/temp。</a></p><p>以下是官方给出的示例，关于链接的变量还有很多，需要的可以去官网上查找 永久链接 。</p><p>参数 结果<br>:year/:month/:day/:title/ 2013/07/14/hello-world<br>:year-:month-:day-:title.html 2013-07-14-hello-world.html<br>:category/:title foo/bar/hello-world<br>再往下翻，中间这些都默认就好了。</p><p>theme: landscape</p><h1 id="Deployment"><a href="#Deployment" class="headerlink" title="Deployment"></a>Deployment</h1><h2 id="Docs-https-hexo-io-docs-deployment-html"><a href="#Docs-https-hexo-io-docs-deployment-html" class="headerlink" title="Docs: https://hexo.io/docs/deployment.html"></a>Docs: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">https://hexo.io/docs/deployment.html</a></h2><p>deploy:<br>type: git<br>repo:<br>branch: [branch]<br>theme就是选择什么主题，也就是在theme这个文件夹下，在官网上有很多个主题，默认给你安装的是lanscape这个主题。当你需要更换主题时，在官网上下载，把主题的文件放在theme文件夹下，再修改这个参数就可以了。</p><p>接下来这个deploy就是网站的部署的，repo就是仓库(Repository)的简写。branch选择仓库的哪个分支。这个在之前进行github page部署的时候已经修改过了，不再赘述。而这个在后面进行双平台部署的时候会再次用到。</p><p>Front-matter<br>Front-matter 是文件最上方以 — 分隔的区域，用于指定个别文件的变量，举例来说：</p><p>title: Hello World</p><p>date: 2013/7/13 20:46:25  </p><h2 id="下是预先定义的参数，您可在模板中使用这些参数值并加以利用。"><a href="#下是预先定义的参数，您可在模板中使用这些参数值并加以利用。" class="headerlink" title="下是预先定义的参数，您可在模板中使用这些参数值并加以利用。"></a>下是预先定义的参数，您可在模板中使用这些参数值并加以利用。</h2><p>参数 描述<br>layout 布局<br>title 标题<br>date 建立日期<br>updated 更新日期<br>comments 开启文章的评论功能<br>tags 标签（不适用于分页）<br>categories 分类（不适用于分页）<br>permalink 覆盖文章网址<br>其中，分类和标签需要区别一下，分类具有顺序性和层次性，也就是说 Foo, Bar 不等于 Bar, Foo；而标签没有顺序和层次。</p><p>categories:</p><ul><li>Diary<br>tags:</li><li>PS3</li><li>Games<br>layout（布局）<br>当你每一次使用代码</li></ul><p>hexo new paper<br>它其实默认使用的是post这个布局，也就是在source文件夹下的_post里面。</p><p>Hexo 有三种默认布局：post、page 和 draft，它们分别对应不同的路径，而您自定义的其他布局和 post 相同，都将储存到 source/_posts 文件夹。</p>]]></content>
+    <content type="html"><![CDATA[<p>现在市面上的博客很多，如CSDN，博客园，简书等平台，可以直接在上面发表，用户交互做的好，写的文章百度也能搜索的到。缺点是比较不自由，会受到平台的各种限制和恶心的广告。</p><a id="more"></a><p>而自己购买域名和服务器，搭建博客的成本实在是太高了，不光是说这些购买成本，单单是花力气去自己搭这么一个网站，还要定期的维护它，对于我们大多数人来说，实在是没有这样的精力和时间。</p><p>那么就有第三种选择，直接在github page平台上托管我们的博客。这样就可以安心的来写作，又不需要定期维护，而且hexo作为一个快速简洁的博客框架，用它来搭建博客真的非常容易。</p><p>Hexo简介<br>Hexo是一款基于Node.js的静态博客框架，依赖少易于安装使用，可以方便的生成静态网页托管在GitHub和Coding上，是搭建博客的首选框架。大家可以进入hexo官网进行详细查看，因为Hexo的创建者是台湾人，对中文的支持很友好，可以选择中文进行查看。</p><p>教程分三个部分，</p><p>第一部分：hexo的初级搭建还有部署到github page上，以及个人域名的绑定。<br>第二部分：hexo的基本配置，更换主题，实现多终端工作，以及在coding page部署实现国内外分流<br>第三部分：hexo添加各种功能，包括搜索的SEO，阅读量统计，访问量统计和评论系统等。<br>第一部分<br>hexo的初级搭建还有部署到github page上，以及个人域名的绑定。</p><p>Hexo简介<br>Hexo是一款基于Node.js的静态博客框架，依赖少易于安装使用，可以方便的生成静态网页托管在GitHub和Coding上，是搭建博客的首选框架。大家可以进入hexo官网进行详细查看，因为Hexo的创建者是台湾人，对中文的支持很友好，可以选择中文进行查看。</p><p>Hexo搭建步骤<br>安装Git<br>安装Node.js<br>安装Hexo<br>GitHub创建个人仓库<br>生成SSH添加到GitHub<br>将hexo部署到GitHub<br>设置个人域名<br>发布文章</p><ol><li>安装Git<br>Git是目前世界上最先进的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理。也就是用来管理你的hexo博客文章，上传到GitHub的工具。Git非常强大，我觉得建议每个人都去了解一下。廖雪峰老师的Git教程写的非常好，大家可以了解一下。Git教程</li></ol><p>windows：到git官网上下载,Download git,下载后会有一个Git Bash的命令行工具，以后就用这个工具来使用git。</p><p>linux：对linux来说实在是太简单了，因为最早的git就是在linux上编写的，只需要一行代码</p><pre><code>sudo apt-get install git安装好后，用git --version 来查看一下版本&lt;/p&gt;</code></pre><ol><li>安装nodejs<br>Hexo是基于nodeJS编写的，所以需要安装一下nodeJs和里面的npm工具。</li></ol><p>windows：nodejs选择LTS版本就行了。</p><p>linux：</p><pre><code>sudo apt-get install nodejs sudo apt-get install npm</code></pre><p>安装完后，打开命令行</p><pre><code>node -vnpm -v</code></pre><p>检查一下有没有安装成功</p><p>顺便说一下，windows在git安装完后，就可以直接使用git bash来敲命令行了，不用自带的cmd，cmd有点难用。</p><ol><li>安装hexo<br>前面git和nodejs安装好后，就可以安装hexo了，你可以先创建一个文件夹blog，然后cd到这个文件夹下（或者在这个文件夹下直接右键git bash打开）。</li></ol><p>输入命令</p><pre><code>npm install -g hexo-cli</code></pre><p>依旧用hexo -v查看一下版本</p><p>至此就全部安装完了。</p><p>接下来初始化一下hexo</p><pre><code>hexo init myblog</code></pre><p>这个myblog可以自己取什么名字都行，然后</p><pre><code>cd myblog //进入这个myblog文件夹 npm install</code></pre><p>新建完成后，指定文件夹目录下有：</p><pre><code>node_modules: 依赖包 public：存放生成的页面 scaffolds：生成文章的一些模板 source：用来存放你的文章 themes：主题 ** _config.yml: 博客的配置文件** hexo g hexo server</code></pre><p>打开hexo的服务，在浏览器输入localhost:4000就可以看到你生成的博客了。</p><p>大概长这样：</p><p>使用ctrl+c可以把服务关掉。</p><ol><li>GitHub创建个人仓库<br>首先，你先要有一个GitHub账户，去注册一个吧。</li></ol><p>注册完登录后，在GitHub.com中看到一个New repository，新建仓库</p><p>创建一个和你用户名相同的仓库，后面加.github.io，只有这样，将来要部署到GitHub page的时候，才会被识别，也就是xxxx.github.io，其中xxx就是你注册GitHub的用户名。我这里是已经建过了。</p><p>点击create repository。</p><ol><li><p>生成SSH添加到GitHub<br>回到你的git bash中，</p><p>git config –global user.name “yourname”<br>git config –global user.email “youremail”</p></li></ol><p>这里的yourname输入你的GitHub用户名，youremail输入你GitHub的邮箱。这样GitHub才能知道你是不是对应它的账户。</p><p>可以用以下两条，检查一下你有没有输对</p><pre><code>git config user.namegit config user.email</code></pre><p>然后创建SSH,一路回车</p><pre><code>ssh-keygen -t rsa -C &quot;youremail&quot;</code></pre><p>这个时候它会告诉你已经生成了.ssh的文件夹。在你的电脑中找到这个文件夹。</p><p>ssh，简单来讲，就是一个秘钥，其中，id_rsa是你这台电脑的私人秘钥，不能给别人看的，id_rsa.pub是公共秘钥，可以随便给别人看。把这个公钥放在GitHub上，这样当你链接GitHub自己的账户时，它就会根据公钥匹配你的私钥，当能够相互匹配时，才能够顺利的通过git上传你的文件到GitHub上。</p><p>而后在GitHub的setting中，找到SSH keys的设置选项，点击New SSH key<br>把你的id_rsa.pub里面的信息复制进去。</p><p>在gitbash中，查看是否成功</p><pre><code>ssh -T git@github.com</code></pre><ol><li><p>将hexo部署到GitHub<br>这一步，我们就可以将hexo和GitHub关联起来，也就是将hexo生成的文章部署到GitHub上，打开站点配置文件 _config.yml，翻到最后，修改为<br>YourgithubName就是你的GitHub账户</p><p>deploy:<br>   type: git<br>   repo: <a href="https://github.com/YourgithubName/YourgithubName.github.io.git" target="_blank" rel="noopener">https://github.com/YourgithubName/YourgithubName.github.io.git</a><br>   branch: master</p></li></ol><p>这个时候需要先安装deploy-git ，也就是部署的命令,这样你才能用命令部署到GitHub。</p><pre><code>npm install hexo-deployer-git --save</code></pre><p>然后</p><pre><code>hexo cleanhexo generatehexo deploy</code></pre><p>其中 hexo clean清除了你之前生成的东西，也可以不加。<br>hexo generate 顾名思义，生成静态文章，可以用 hexo g缩写<br>hexo deploy 部署文章，可以用hexo d缩写</p><p>注意deploy时可能要你输入username和password。</p><p>得到下图就说明部署成功了，过一会儿就可以在<a href="http://yourname.github.io" target="_blank" rel="noopener">http://yourname.github.io</a> 这个网站看到你的博客了！！</p><ol><li>设置个人域名<br>现在你的个人网站的地址是 yourname.github.io，如果觉得这个网址逼格不太够，这就需要你设置个人域名了。但是需要花钱。</li></ol><p>注册一个阿里云账户,在阿里云上买一个域名，我买的是 fangzh.top，各个后缀的价格不太一样，比如最广泛的.com就比较贵，看个人喜好咯。</p><p>你需要先去进行实名认证,然后在域名控制台中，看到你购买的域名。</p><p>点解析进去，添加解析。</p><p>其中，192.30.252.153 和 192.30.252.154 是GitHub的服务器地址。<br>注意，解析线路选择默认，不要像我一样选境外。这个境外是后面来做国内外分流用的,在后面的博客中会讲到。记得现在选择默认！！</p><p>登录GitHub，进入之前创建的仓库，点击settings，设置Custom domain，输入你的域名fangzh.top</p><p>然后在你的博客文件source中创建一个名为CNAME文件，不要后缀。写上你的域名。</p><p>最后，在gitbash中，输入</p><pre><code>hexo cleanhexo ghexo d</code></pre><p>过不了多久，再打开你的浏览器，输入你自己的域名，就可以看到搭建的网站啦！</p><p>接下来你就可以正式开始写文章了。</p><pre><code>hexo new newpapername</code></pre><p>然后在source/_post中打开markdown文件，就可以开始编辑了。当你写完的时候，再</p><pre><code>hexo cleanhexo ghexo d</code></pre><p>就可以看到更新了。</p><p>第二部分<br>hexo的基本配置，更换主题，实现多终端工作，以及在coding page部署实现国内外分流。</p><ol><li>hexo基本配置<br>在文件根目录下的_config.yml，就是整个hexo框架的配置文件了。可以在里面修改大部分的配置。详细可参考官方的配置描述。</li></ol><p>网站<br>参数 描述<br>title 网站标题<br>subtitle 网站副标题<br>description 网站描述<br>author 您的名字<br>language 网站使用的语言<br>timezone 网站时区。Hexo 默认使用您电脑的时区。时区列表。比如说：America/New_York, Japan, 和 UTC 。<br>其中，description主要用于SEO，告诉搜索引擎一个关于您站点的简单描述，通常建议在其中包含您网站的关键词。author参数用于主题显示文章的作者。</p><p>网址<br>参数 描述<br>url 网址<br>root 网站根目录<br>permalink 文章的 永久链接 格式<br>permalink_defaults 永久链接中各部分的默认值<br>在这里，你需要把url改成你的网站域名。</p><p>permalink，也就是你生成某个文章时的那个链接格式。</p><p>比如我新建一个文章叫temp.md，那么这个时候他自动生成的地址就是<a href="http://yoursite.com/2018/09/05/temp。">http://yoursite.com/2018/09/05/temp。</a></p><p>以下是官方给出的示例，关于链接的变量还有很多，需要的可以去官网上查找 永久链接 。</p><p>参数 结果<br>:year/:month/:day/:title/ 2013/07/14/hello-world<br>:year-:month-:day-:title.html 2013-07-14-hello-world.html<br>:category/:title foo/bar/hello-world<br>再往下翻，中间这些都默认就好了。</p><p>theme: landscape</p><h1 id="Deployment"><a href="#Deployment" class="headerlink" title="Deployment"></a>Deployment</h1><h2 id="Docs-https-hexo-io-docs-deployment-html"><a href="#Docs-https-hexo-io-docs-deployment-html" class="headerlink" title="Docs: https://hexo.io/docs/deployment.html"></a>Docs: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">https://hexo.io/docs/deployment.html</a></h2><p>deploy:<br>type: git<br>repo:<br>branch: [branch]<br>theme就是选择什么主题，也就是在theme这个文件夹下，在官网上有很多个主题，默认给你安装的是lanscape这个主题。当你需要更换主题时，在官网上下载，把主题的文件放在theme文件夹下，再修改这个参数就可以了。</p><p>接下来这个deploy就是网站的部署的，repo就是仓库(Repository)的简写。branch选择仓库的哪个分支。这个在之前进行github page部署的时候已经修改过了，不再赘述。而这个在后面进行双平台部署的时候会再次用到。</p><p>Front-matter<br>Front-matter 是文件最上方以 — 分隔的区域，用于指定个别文件的变量，举例来说：</p><p>title: Hello World</p><p>date: 2013/7/13 20:46:25  </p><h2 id="下是预先定义的参数，您可在模板中使用这些参数值并加以利用。"><a href="#下是预先定义的参数，您可在模板中使用这些参数值并加以利用。" class="headerlink" title="下是预先定义的参数，您可在模板中使用这些参数值并加以利用。"></a>下是预先定义的参数，您可在模板中使用这些参数值并加以利用。</h2><p>参数 描述<br>layout 布局<br>title 标题<br>date 建立日期<br>updated 更新日期<br>comments 开启文章的评论功能<br>tags 标签（不适用于分页）<br>categories 分类（不适用于分页）<br>permalink 覆盖文章网址<br>其中，分类和标签需要区别一下，分类具有顺序性和层次性，也就是说 Foo, Bar 不等于 Bar, Foo；而标签没有顺序和层次。</p><p>categories:</p><ul><li>Diary<br>tags:</li><li>PS3</li><li>Games<br>layout（布局）<br>当你每一次使用代码</li></ul><p>hexo new paper<br>它其实默认使用的是post这个布局，也就是在source文件夹下的_post里面。</p><p>Hexo 有三种默认布局：post、page 和 draft，它们分别对应不同的路径，而您自定义的其他布局和 post 相同，都将储存到 source/_posts 文件夹。</p>]]></content>
     
     <summary type="html">
     
@@ -376,17 +376,17 @@
     
     </summary>
     
-      <category term="技术流" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E6%8A%80%E6%9C%AF%E6%B5%81/"/>
+      <category term="技术流" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF%E6%B5%81/"/>
     
     
-      <category term="hexo" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/hexo/"/>
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>支付宝扫码得红包</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/16/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%AB%E7%A0%81%E5%BE%97%E7%BA%A2%E5%8C%85/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/16/支付宝扫码得红包/</id>
+    <link href="http://yoursite.com/2019/05/16/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%AB%E7%A0%81%E5%BE%97%E7%BA%A2%E5%8C%85/"/>
+    <id>http://yoursite.com/2019/05/16/支付宝扫码得红包/</id>
     <published>2019-05-16T06:08:30.000Z</published>
     <updated>2019-05-29T16:10:21.815Z</updated>
     
@@ -401,17 +401,17 @@
     
     </summary>
     
-      <category term="薅羊毛" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
+      <category term="薅羊毛" scheme="http://yoursite.com/categories/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
     
     
-      <category term="支付宝" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E6%94%AF%E4%BB%98%E5%AE%9D/"/>
+      <category term="支付宝" scheme="http://yoursite.com/tags/%E6%94%AF%E4%BB%98%E5%AE%9D/"/>
     
   </entry>
   
   <entry>
     <title>在线音乐MKOnlinePlayer v2.4</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/13/mkonlineplayer-v2-4/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/13/mkonlineplayer-v2-4/</id>
+    <link href="http://yoursite.com/2019/05/13/mkonlineplayer-v2-4/"/>
+    <id>http://yoursite.com/2019/05/13/mkonlineplayer-v2-4/</id>
     <published>2019-05-13T06:35:07.000Z</published>
     <updated>2019-05-29T16:12:01.265Z</updated>
     
@@ -423,17 +423,17 @@
     
     </summary>
     
-      <category term="源码" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E6%BA%90%E7%A0%81/"/>
+      <category term="源码" scheme="http://yoursite.com/categories/%E6%BA%90%E7%A0%81/"/>
     
     
-      <category term="音乐" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E9%9F%B3%E4%B9%90/"/>
+      <category term="音乐" scheme="http://yoursite.com/tags/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
   <entry>
     <title>支付宝周末用花呗付抽红包</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/13/%E6%94%AF%E4%BB%98%E5%AE%9D%E5%91%A8%E6%9C%AB%E7%94%A8%E8%8A%B1%E5%91%97%E4%BB%98%E6%8A%BD%E7%BA%A2%E5%8C%85/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/13/支付宝周末用花呗付抽红包/</id>
+    <link href="http://yoursite.com/2019/05/13/%E6%94%AF%E4%BB%98%E5%AE%9D%E5%91%A8%E6%9C%AB%E7%94%A8%E8%8A%B1%E5%91%97%E4%BB%98%E6%8A%BD%E7%BA%A2%E5%8C%85/"/>
+    <id>http://yoursite.com/2019/05/13/支付宝周末用花呗付抽红包/</id>
     <published>2019-05-13T06:09:42.000Z</published>
     <updated>2019-05-29T16:14:33.378Z</updated>
     
@@ -448,19 +448,19 @@
     
     </summary>
     
-      <category term="薅羊毛" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
+      <category term="薅羊毛" scheme="http://yoursite.com/categories/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
     
     
-      <category term="支付宝" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E6%94%AF%E4%BB%98%E5%AE%9D/"/>
+      <category term="支付宝" scheme="http://yoursite.com/tags/%E6%94%AF%E4%BB%98%E5%AE%9D/"/>
     
-      <category term="花呗" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E8%8A%B1%E5%91%97/"/>
+      <category term="花呗" scheme="http://yoursite.com/tags/%E8%8A%B1%E5%91%97/"/>
     
   </entry>
   
   <entry>
     <title>每日签到软件</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/13/%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0%E8%BD%AF%E4%BB%B6/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/13/每日签到软件/</id>
+    <link href="http://yoursite.com/2019/05/13/%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0%E8%BD%AF%E4%BB%B6/"/>
+    <id>http://yoursite.com/2019/05/13/每日签到软件/</id>
     <published>2019-05-13T04:09:25.000Z</published>
     <updated>2019-05-22T16:55:34.110Z</updated>
     
@@ -475,17 +475,17 @@
     
     </summary>
     
-      <category term="薅羊毛" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
+      <category term="薅羊毛" scheme="http://yoursite.com/categories/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
     
     
-      <category term="签到" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E7%AD%BE%E5%88%B0/"/>
+      <category term="签到" scheme="http://yoursite.com/tags/%E7%AD%BE%E5%88%B0/"/>
     
   </entry>
   
   <entry>
     <title>NOW手机直播平台</title>
-    <link href="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/13/NOW%E6%89%8B%E6%9C%BA%E7%9B%B4%E6%92%AD%E5%B9%B3%E5%8F%B0/"/>
-    <id>https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/2019/05/13/NOW手机直播平台/</id>
+    <link href="http://yoursite.com/2019/05/13/NOW%E6%89%8B%E6%9C%BA%E7%9B%B4%E6%92%AD%E5%B9%B3%E5%8F%B0/"/>
+    <id>http://yoursite.com/2019/05/13/NOW手机直播平台/</id>
     <published>2019-05-13T03:51:30.000Z</published>
     <updated>2019-05-29T16:19:30.082Z</updated>
     
@@ -500,12 +500,12 @@
     
     </summary>
     
-      <category term="薅羊毛" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/categories/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
+      <category term="薅羊毛" scheme="http://yoursite.com/categories/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
     
     
-      <category term="手机" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E6%89%8B%E6%9C%BA/"/>
+      <category term="手机" scheme="http://yoursite.com/tags/%E6%89%8B%E6%9C%BA/"/>
     
-      <category term="直播" scheme="https://dev.tencent.com/u/dtid_4784a259b70eac91/p/z115699/tags/%E7%9B%B4%E6%92%AD/"/>
+      <category term="直播" scheme="http://yoursite.com/tags/%E7%9B%B4%E6%92%AD/"/>
     
   </entry>
   
