@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[资源分享]]></title>
+    <url>%2F2019%2F07%2F06%2F%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%2F</url>
+    <content type="text"><![CDATA[股票从入门到精通全12集 链接：https://pan.baidu.com/s/147bKTfmeH4UL6OmwKWiDqw提取码：2fv2程序设计入门—Java语言链接：https://pan.baidu.com/s/1Ll9cLLmKlnD49jMEXWjUqQ提取码：rv8k用Python自动办公，做职场高手（完结）链接：https://pan.baidu.com/s/19_rX81uTWNsatCr852lnsg提取码：qo6t学习Shell脚本编程【完结】链接：https://pan.baidu.com/s/1rFzYu96IaaHDf3Qu3vh5fg提取码：ve8c安卓开发链接：https://pan.baidu.com/s/1P8FH-ixwacJGXi75ofBODA提取码：0g4o京峰教育Linux入门到精通视频系列链接：https://pan.baidu.com/s/1GjN_-MA0nLxo0uKNcmZmqQ提取码：dpzw极客学院链接：https://pan.baidu.com/s/1qg-YiiF6lA9tkl6LNTsRVA提取码：8a9xkali链接：https://pan.baidu.com/s/1Fya7O6LQQsXczw8KLEUbrA提取码：hk5d零基础入门Android(安卓)逆向链接：https://pan.baidu.com/s/1pT8owN6JO_WJTURam01KJQ提取码：kb7uNginx核心知识100讲链接：https://pan.baidu.com/s/1ws3BU4jGqK76bSA-34lVXg提取码：dxbgCAD2019零基础入门到精通视频链接：https://pan.baidu.com/s/1kZ_SSfOIc29GcSeVCiJbBA提取码：funr]]></content>
+      <categories>
+        <category>百度网盘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[2]]></title>
+    <url>%2F2019%2F07%2F06%2F2-1%2F</url>
+    <content type="text"><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[2]]></title>
+    <url>%2F2019%2F06%2F27%2F2%2F</url>
+    <content type="text"><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[魔鬼中的天使&你就不要想起我 - IF ONLY 如果巡回演唱会 现场版 -- 田馥甄]]></title>
+    <url>%2F2019%2F06%2F27%2F%E7%94%B0%E9%A6%A5%E7%94%84%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[斐讯N1降级和线刷]]></title>
     <url>%2F2019%2F06%2F16%2F%E6%96%90%E8%AE%AFN1%E9%99%8D%E7%BA%A7%E5%92%8C%E7%BA%BF%E5%88%B7%2F</url>
     <content type="text"><![CDATA[如果你的N1是v2.27或者v2.22的版本。你会发现无论如何你都无法识别刷机程序。 因此很关键的一步是降级。本文涉及到的工具地址我会放在网盘： 链接：工具下载（里面的文档里有固件地址） 密码：tnmv 准备工作： 强烈建议用网线插入盒子，网线网线网线，重要的事情说三遍，强烈建议hdmi线接一个显示器或者电视，必须要强调一点，利用多次点击版本号的方法，确保点击版本号后，提示打开了adb调试才能进行后面的步骤 一、降级1、盒子插上usb双公头线连接到电脑，请尽量用电脑主板原生0端口，N1请用靠近hdmi的usb口，最好如下图所示的样子 2、双击【连接盒子.bat】，输入ip后回车 盒子重启进入fastboot模式，叮咚一声windows发现新硬件，，打开设备管理器观察。自动安装驱动后的硬件设备为 ‘ Android Phone - Android ADB Interface ’ 3、查看是否连接成功 双击【查询串号.bat】 4、 双击 【降级.bat】 ,若屏幕出现【盒子降级完毕，此窗口可以关闭.】的提示，继续往下看。这句话代表降级成功了，这完成了本教程的第一个大动作，下面的步骤是刷机。 5、刷机之前，执行【降级完毕.bat】，此时盒子就会重启的。后面就是刷机的步骤了。 二、线刷1、打开USB_Burning_Tool ，导入固件后，去掉前2个选项如图， 然后点击【开始】按钮，如图 2、双击 【进入线刷模式.bat】，按照提示输入盒子ip地址。此时线刷工具会出现进度条，等待烧录完毕即可 烧录完毕，断电盒子和usb线，在通电，第一次进入会比较慢，大概持续10分钟，耐心等待，进去之后会有遥控器配对画面，如果你暂时没有遥控器可以用鼠标跳过。]]></content>
@@ -87,7 +113,7 @@
   <entry>
     <title><![CDATA[网站]]></title>
     <url>%2F2019%2F05%2F30%2F%E9%93%BE%E6%8E%A5%2F</url>
-    <content type="text"><![CDATA[自用网站播王、Youtube、灵石县人民政府、灵石县人民法院庭审公开网、山西人才网、我要自学网国开学习网、学历提升工程→账号密码获取 影视网站奇葩云、思古影视、无双影视、落尘影视、麻花影视、ADC电影网、达达兔、盐酥鸡、片吧、嗨多米、海狸影视、海兔影院 、豌豆影视、52电影院、欧西电影、九州影院、海天影视 、暖光影视、看看屋、100视频、免费影视app、日剧、热播日剧、蜗牛视频、韩饭网、韩粉乐园、嘟嘟韩剧、韩剧TV、NO视频、嘀哩哩、奈菲影视、剧迷、美剧鸟、美剧社、哈哩哈哩、追番剧、zzzfun 自建站点（站点基于群晖运行）群晖（不定时开关机）、ASUS路由器、博客、小说、管理、hexo国内线路、hexo海外线路 工具站Youtube下载、哔哩哔哩下载、磁力猫、迅雷仓、BT种子福利、小刀、AIRXCLOUD、MAG磁力站、系统下载、影片转换工具、第三方百度motrix、种子下载、免备案cdn、七牛云、免费空间、老薛主机、腾讯云、公云]]></content>
+    <content type="text"><![CDATA[自用网站播王、Youtube、灵石县人民政府、灵石县人民法院庭审公开网、山西人才网、我要自学网、会计之星、bilibili国开学习网、学历提升工程→账号密码获取 影视网站奇葩云、思古影视、无双影视、落尘影视、麻花影视、ADC电影网、达达兔、盐酥鸡、片吧、嗨多米、海狸影视、海兔影院 、豌豆影视、52电影院、欧西电影、九州影院、海天影视 、暖光影视、看看屋、100视频、免费影视app、日剧、热播日剧、蜗牛视频、韩饭网、韩粉乐园、嘟嘟韩剧、韩剧TV、NO视频、嘀哩哩、奈菲影视、剧迷、美剧鸟、美剧社、哈哩哈哩、追番剧、zzzfun 自建站点（站点基于群晖运行）群晖（不定时开关机）、ASUS路由器、博客、小说、管理、hexo国内线路、hexo海外线路 工具站Youtube下载、哔哩哔哩下载、磁力猫、迅雷仓、BT种子福利、小刀、AIRXCLOUD、MAG磁力站、系统下载、影片转换工具、第三方百度motrix、种子下载、免备案cdn、七牛云、免费空间、老薛主机、腾讯云、公云、Tracker 服务器地址大全Tracker List、PanDownload]]></content>
   </entry>
   <entry>
     <title><![CDATA[U盘修复工具]]></title>
