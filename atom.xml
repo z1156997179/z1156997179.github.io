@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-06T14:41:03.208Z</updated>
+  <updated>2019-07-06T14:57:17.191Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>2</title>
-    <link href="http://yoursite.com/2019/07/06/2-1/"/>
-    <id>http://yoursite.com/2019/07/06/2-1/</id>
-    <published>2019-07-06T14:41:03.000Z</published>
-    <updated>2019-07-06T14:41:03.208Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>资源分享</title>
@@ -56,27 +35,6 @@
     </summary>
     
       <category term="百度网盘" scheme="http://yoursite.com/categories/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2</title>
-    <link href="http://yoursite.com/2019/06/27/2/"/>
-    <id>http://yoursite.com/2019/06/27/2/</id>
-    <published>2019-06-27T11:08:40.000Z</published>
-    <updated>2019-06-27T11:08:40.081Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
     
     
   </entry>
@@ -469,6 +427,56 @@
     
     
       <category term="养老保险" scheme="http://yoursite.com/tags/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>养老保险收据规范</title>
+    <link href="http://yoursite.com/2019/05/19/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E6%94%B6%E6%8D%AE%E8%A7%84%E8%8C%83/"/>
+    <id>http://yoursite.com/2019/05/19/养老保险收据规范/</id>
+    <published>2019-05-19T01:46:59.000Z</published>
+    <updated>2019-05-22T16:45:38.643Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol><li>四联书写清晰、第二联交予缴费人，第一、三联交予财务，第四联交予政务大厅养老保险窗口</li><li><p>协办员上交当面每页清点清楚  </p></li><li><p>养老保险首页联填写填开张数、折废张数（码号写清楚多少到多少）</p></li><li>首页联写上这本发票的总金额，经办人写上名字</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="新闻" scheme="http://yoursite.com/categories/%E6%96%B0%E9%97%BB/"/>
+    
+    
+      <category term="养老保险" scheme="http://yoursite.com/tags/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>养老保险注销表</title>
+    <link href="http://yoursite.com/2019/05/19/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E6%B3%A8%E9%94%80%E8%A1%A8/"/>
+    <id>http://yoursite.com/2019/05/19/养老保险注销表/</id>
+    <published>2019-05-19T01:38:09.000Z</published>
+    <updated>2019-05-29T16:01:09.261Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://potoshop-1251602024.cos.ap-beijing.myqcloud.com/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E6%B3%A8%E9%94%80%E8%A1%A8.jpg" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="新闻" scheme="http://yoursite.com/categories/%E6%96%B0%E9%97%BB/"/>
+    
+    
+      <category term="注销" scheme="http://yoursite.com/tags/%E6%B3%A8%E9%94%80/"/>
     
   </entry>
   
