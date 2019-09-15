@@ -129,7 +129,7 @@
 <meta property="og:site_name" content="Zzg">
 <meta property="og:description" content="每日任务一、每日签到1、支付宝红包 2、NOW直播 3、趣看天下 4、拼多多 5、京东 6、微信小程序 “财商挑战”每日三票 7、支付宝大盘晴雨表、猜涨跌">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-07-25T14:21:10.845Z">
+<meta property="og:updated_time" content="2019-09-15T08:08:35.895Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="每日薅羊毛任务">
 <meta name="twitter:description" content="每日任务一、每日签到1、支付宝红包 2、NOW直播 3、趣看天下 4、拼多多 5、京东 6、微信小程序 “财商挑战”每日三票 7、支付宝大盘晴雨表、猜涨跌">
@@ -370,6 +370,16 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2019/07/14/任务/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2019/07/14/任务/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -529,10 +539,6 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/2019/08/29/签到/" rel="prev" title="签到">
-                签到 <i class="fa fa-chevron-right"></i>
-              </a>
-            
           </div>
         </div>
       
@@ -562,9 +568,7 @@
 
   
     <div class="comments" id="comments">
-      <div id="lv-container" data-id="city" data-uid="MTAyMC8zODM2MS8xNDg4OQ=="></div>
     </div>
-
   
 
 
@@ -615,7 +619,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">50</span>
+                  <span class="site-state-item-count">49</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -976,26 +980,37 @@
 
 
   
-    <script type="text/javascript">
-      (function(d, s) {
-        var j, e = d.getElementsByTagName(s)[0];
-        if (typeof LivereTower === 'function') { return; }
-        j = d.createElement(s);
-        j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-        j.async = true;
-        e.parentNode.insertBefore(j, e);
-      })(document, 'script');
-    </script>
+
+
+
+
+
+
+
+
+
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
   
-
-
-
-
-
-
-
-
-
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'kTYSpB5rTR7F7CYUm8D7RVG7-gzGzoHsz',
+        appKey: '2hiKYTTNR6XkJdGMPKhnRnTH',
+        placeholder: 'Just go go',
+        avatar:'mm',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 
