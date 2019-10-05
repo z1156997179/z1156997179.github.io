@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-28T14:55:36.031Z</updated>
+  <updated>2019-10-05T11:34:53.725Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,49 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2</title>
+    <link href="http://yoursite.com/2019/10/05/2/"/>
+    <id>http://yoursite.com/2019/10/05/2/</id>
+    <published>2019-10-05T11:34:53.000Z</published>
+    <updated>2019-10-05T11:34:53.725Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>灵石县车祸</title>
+    <link href="http://yoursite.com/2019/10/04/20191004%E8%BD%A6%E7%A5%B8/"/>
+    <id>http://yoursite.com/2019/10/04/20191004车祸/</id>
+    <published>2019-10-04T06:34:53.000Z</published>
+    <updated>2019-10-05T11:46:33.687Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>发车一起车祸，如需观看，点击阅读全文</p><a id="more"></a><video width="480" height="320" controls><br><source src="https://mv1-1251602024.cos.ap-beijing.myqcloud.com/2019100401.mp4"><br></video><video width="480" height="320" controls><br><source src="https://mv1-1251602024.cos.ap-beijing.myqcloud.com/2019100402.mp4"><br></video><video width="480" height="320" controls><br><source src="https://mv1-1251602024.cos.ap-beijing.myqcloud.com/2019100403.mp4"><br></video>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;发车一起车祸，如需观看，点击阅读全文&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="纪实" scheme="http://yoursite.com/categories/%E7%BA%AA%E5%AE%9E/"/>
+    
+    
+      <category term="车祸" scheme="http://yoursite.com/tags/%E8%BD%A6%E7%A5%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>战报</title>
@@ -119,29 +162,6 @@
   </entry>
   
   <entry>
-    <title>魔鬼中的天使&amp;你就不要想起我 - IF ONLY 如果巡回演唱会 现场版 -- 田馥甄</title>
-    <link href="http://yoursite.com/2019/06/27/%E7%94%B0%E9%A6%A5%E7%94%84/"/>
-    <id>http://yoursite.com/2019/06/27/田馥甄/</id>
-    <published>2019-06-27T11:08:40.000Z</published>
-    <updated>2019-06-27T11:16:53.903Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe width="560" height="315" src="https://www.youtube.com/embed/86ev7ubqHXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-      <category term="音乐" scheme="http://yoursite.com/categories/%E9%9F%B3%E4%B9%90/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>斐讯N1降级和线刷</title>
     <link href="http://yoursite.com/2019/06/16/%E6%96%90%E8%AE%AFN1%E9%99%8D%E7%BA%A7%E5%92%8C%E7%BA%BF%E5%88%B7/"/>
     <id>http://yoursite.com/2019/06/16/斐讯N1降级和线刷/</id>
@@ -185,30 +205,6 @@
   </entry>
   
   <entry>
-    <title>免费下载音乐的网站</title>
-    <link href="http://yoursite.com/2019/06/13/%E5%85%8D%E8%B4%B9%E4%B8%8B%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%9A%84%E7%BD%91%E7%AB%99/"/>
-    <id>http://yoursite.com/2019/06/13/免费下载音乐的网站/</id>
-    <published>2019-06-13T14:26:13.000Z</published>
-    <updated>2019-06-13T15:28:58.311Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>现在的歌都是需要VIP，但作为平民窟的一员，怎么会花钱冲VIP呢？</p><p>以下几个网站可以帮助我们免费下载音乐！</p><h2 id="1-疯狂音乐搜索"><a href="#1-疯狂音乐搜索" class="headerlink" title="1.疯狂音乐搜索"></a>1.疯狂音乐搜索</h2><p><a href="http://music.ifkdy.com/" target="_blank" rel="noopener">http://music.ifkdy.com/</a>  (这个牛逼了亲测有效, 搜索到想要的音乐直接下单即可, 不需要下载其他任何PC端软件)<br> <img src="https://www.seoxiehui.cn/data/attachment/portal/201809/08/051047llzojz9qjmtjorj0.jpg" alt></p><a id="more"></a><p>网站里面涵盖了超多平台的音乐资源,而且都是可以在线或者下载都可以,这里就不多做介绍了感兴趣的朋友可以看看</p><h2 id="2-魔灵音乐-Mi音乐-growio音乐"><a href="#2-魔灵音乐-Mi音乐-growio音乐" class="headerlink" title="2.魔灵音乐/Mi音乐/growio音乐"></a>2.魔灵音乐/Mi音乐/growio音乐</h2><p><a href="https://music.mli.im/" target="_blank" rel="noopener">https://music.mli.im/</a><br><img src="https://www.seoxiehui.cn/data/attachment/portal/201809/08/051048v9a50rdc5uc05r7v.jpg" alt></p><p>网站拥有庞大、完整的曲库,歌曲更新迅速,试听流畅,口碑极佳。提供高品质音乐MP3的个性化推荐、发布、无损音乐免费下载服务(免注册)。</p><h2 id="3-VIP付费音乐解析下载"><a href="#3-VIP付费音乐解析下载" class="headerlink" title="3.VIP付费音乐解析下载"></a>3.VIP付费音乐解析下载</h2><p><a href="http://music.zhuolin.wang/" target="_blank" rel="noopener">http://music.zhuolin.wang/</a></p><p><img src="https://www.seoxiehui.cn/data/attachment/portal/201809/08/051048lsqnerg8egnzszch.jpg" alt></p><p>它能够任意在线听音乐并且能够下载高音质音乐。</p><h2 id="4-51ape-com"><a href="#4-51ape-com" class="headerlink" title="4.51ape.com"></a>4.51ape.com</h2><p><a href="http://www.51ape.com/" target="_blank" rel="noopener">http://www.51ape.com/</a><br> <img src="https://www.seoxiehui.cn/data/attachment/portal/201809/08/051048sgnnncndvv6ddg6z.jpg" alt></p><p>51Ape.Com是一个免费提供无损音乐下载的网站,专注于Ape音乐、Flac音乐以及Wav等各类高品质无损音乐的免费下载,但更新慢，一些新歌是没有的。</p><h2 id="5-歌曲大全—音乐聚合搜索引擎"><a href="#5-歌曲大全—音乐聚合搜索引擎" class="headerlink" title="5.歌曲大全—音乐聚合搜索引擎"></a>5.歌曲大全—音乐聚合搜索引擎</h2><p><a href="http://www.gequdaquan.net/gqss/" target="_blank" rel="noopener">http://www.gequdaquan.net/gqss/</a><br><img src="https://www.seoxiehui.cn/data/attachment/portal/201809/08/051048lsqnerg8egnzszch.jpg" alt></p><p>音乐聚合搜索引擎是一款使用非常方便的收费音乐下载工具。这款音乐聚合搜索引擎能… 支持网易云、虾米、QQ、酷狗、百度、等平台收费音乐下载,搜索支持歌曲名称.</p><h2 id="6-bin-music"><a href="#6-bin-music" class="headerlink" title="6.bin music"></a>6.bin music</h2><p><a href="http://music.fooor.cn/" target="_blank" rel="noopener">http://music.fooor.cn/</a><br><img src="https://www.seoxiehui.cn/data/attachment/portal/201809/08/051048d3dnbzpdpks0ukuc.jpg" alt></p><p>是一款开源的基于网易云音乐api的在线音乐播放器。具有音乐搜索、播放、下载、歌词同步显示、个人音乐播放列表同步等功能。</p><h2 id="7-MKOnlinePlaer"><a href="#7-MKOnlinePlaer" class="headerlink" title="7.MKOnlinePlaer"></a>7.MKOnlinePlaer</h2><p><a href="http://music.cheshirex.com/" target="_blank" rel="noopener">http://music.cheshirex.com/</a><br><img src="https://www.seoxiehui.cn/data/attachment/portal/201809/08/051048cx3z04owx1oeq3eq.jpg" alt></p><p>一款开源的基于网易云音乐api的在线音乐播放器。具有音乐搜索、播放、下载、歌词同步显示、个人音乐播放列表同步等功能。类似bin music</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;现在的歌都是需要VIP，但作为平民窟的一员，怎么会花钱冲VIP呢？&lt;/p&gt;
-&lt;p&gt;以下几个网站可以帮助我们免费下载音乐！&lt;/p&gt;
-&lt;h2 id=&quot;1-疯狂音乐搜索&quot;&gt;&lt;a href=&quot;#1-疯狂音乐搜索&quot; class=&quot;headerlink&quot; title=&quot;1.疯狂音乐搜索&quot;&gt;&lt;/a&gt;1.疯狂音乐搜索&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://music.ifkdy.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://music.ifkdy.com/&lt;/a&gt;  (这个牛逼了亲测有效, 搜索到想要的音乐直接下单即可, 不需要下载其他任何PC端软件)&lt;br&gt; &lt;img src=&quot;https://www.seoxiehui.cn/data/attachment/portal/201809/08/051047llzojz9qjmtjorj0.jpg&quot; alt&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="软件" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-      <category term="音乐" scheme="http://yoursite.com/tags/%E9%9F%B3%E4%B9%90/"/>
-    
-  </entry>
-  
-  <entry>
     <title>太漂亮了 阿纯对不起 我可能要变心了</title>
     <link href="http://yoursite.com/2019/06/13/%E5%A4%AA%E6%BC%82%E4%BA%AE%E4%BA%86%20%E9%98%BF%E7%BA%AF%E5%AF%B9%E4%B8%8D%E8%B5%B7%20%E6%88%91%E5%8F%AF%E8%83%BD%E8%A6%81%E5%8F%98%E5%BF%83%E4%BA%86/"/>
     <id>http://yoursite.com/2019/06/13/太漂亮了 阿纯对不起 我可能要变心了/</id>
@@ -230,52 +226,6 @@
     
     
       <category term="抖音" scheme="http://yoursite.com/tags/%E6%8A%96%E9%9F%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【抖音Tik Tok】阿纯(全网男女通用脸)</title>
-    <link href="http://yoursite.com/2019/06/13/%E3%80%90%E6%8A%96%E9%9F%B3Tik%20Tok%E3%80%91%E9%98%BF%E7%BA%AF(%E5%85%A8%E7%BD%91%E7%94%B7%E5%A5%B3%E9%80%9A%E7%94%A8%E8%84%B8)/"/>
-    <id>http://yoursite.com/2019/06/13/【抖音Tik Tok】阿纯(全网男女通用脸)/</id>
-    <published>2019-06-13T14:25:46.000Z</published>
-    <updated>2019-06-13T14:51:38.022Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe width="560" height="315" src="https://www.youtube.com/embed/a7NU1s_1fy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>无法打开，跳转<a href="https://www.bilibili.com/video/av29053913?from=search&amp;seid=13497175728303271879" title="bilibili" target="_blank" rel="noopener">bilibili</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-      <category term="影视" scheme="http://yoursite.com/categories/%E5%BD%B1%E8%A7%86/"/>
-    
-    
-      <category term="抖音" scheme="http://yoursite.com/tags/%E6%8A%96%E9%9F%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>突破千兆真爽～跳坑实测10G万兆内网 硬盘才是最大瓶颈</title>
-    <link href="http://yoursite.com/2019/06/13/%E7%AA%81%E7%A0%B4%E5%8D%83%E5%85%86%E7%9C%9F%E7%88%BD%EF%BD%9E%E8%B7%B3%E5%9D%91%E5%AE%9E%E6%B5%8B10G%E4%B8%87%E5%85%86%E5%86%85%E7%BD%91%20%E7%A1%AC%E7%9B%98%E6%89%8D%E6%98%AF%E6%9C%80%E5%A4%A7%E7%93%B6%E9%A2%88/"/>
-    <id>http://yoursite.com/2019/06/13/突破千兆真爽～跳坑实测10G万兆内网 硬盘才是最大瓶颈/</id>
-    <published>2019-06-13T14:24:56.000Z</published>
-    <updated>2019-06-13T14:34:20.573Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe width="560" height="315" src="https://www.youtube.com/embed/6pghc-lN0ls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
     
   </entry>
   
@@ -415,30 +365,6 @@
   </entry>
   
   <entry>
-    <title>MIWIFI PLUS</title>
-    <link href="http://yoursite.com/2019/05/22/MIWIFI%20PLUS%EF%BC%88%E7%AE%80%E7%A7%B0MP%EF%BC%89%E4%B8%80%E6%AC%BE%E5%9F%BA%E4%BA%8E%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E9%A3%8E%E6%A0%BC%E7%9A%84Luci%E6%8F%92%E4%BB%B6/"/>
-    <id>http://yoursite.com/2019/05/22/MIWIFI PLUS（简称MP）一款基于小米路由风格的Luci插件/</id>
-    <published>2019-05-22T05:51:06.000Z</published>
-    <updated>2019-05-22T06:24:43.169Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="MIWIFI-PLUS（简称MP）一款基于小米路由风格的Luci插件"><a href="#MIWIFI-PLUS（简称MP）一款基于小米路由风格的Luci插件" class="headerlink" title="MIWIFI PLUS（简称MP）一款基于小米路由风格的Luci插件"></a>MIWIFI PLUS（简称MP）一款基于小米路由风格的Luci插件</h1><a id="more"></a><p>插件名称：MIWIFI PLUS</p><p>支持机型：新测试版已支持除“青春版”外所有小米路由（2017.6.14已支持HD及PRO）</p><p>文件大小：3.5M</p><p>目前功能：阿呆喵全网广告过滤、影梭（shadowsocks）、内网穿透（ngrok）、端口控制、WEBSSH、官方原有功能修复增强（隐藏功能，请自己探索哦）</p><p>插件特点：精简、高效</p><p>未来屏望：OPENVPN SERVER、KCP（SS加速）等等</p><p>更新记录：</p><p>2017.01.16 0.9.1.1202 修复ADM证书下载路径<br>2017.01.16 0.9.1.0220 修复重启后出现502错误的情况及其它已知若干bug<br>2017.01.15 0.9.0.2106 尝试新的运行方式，R3及mini需插入u盘，不支持更新安装<br>2017.01.08 0.0.7.2202 为ADM添加了规则管理，并且添加了修改端口的功能<br>2016.12.17 0.0.6.1725 为GFW列表添加了手动更新按钮，并且修复了一些潜在bug<br>2016.12.11 0.0.5.3625 修改了SS连接判定方式</p><p>2016.12.10 0.0.5.3593 修复了由内测群群友R2D-悪靈提供的一个卸载导致DDNS出错的BUG</p><p>2016.12.10 0.0.5.3510 尝试修复开机SS无法自动启动以及一些特殊线路无法正常连接的问题</p><p>2016.12.09 0.0.5.2126 针对R3系统格式问题尝试使用新的文件写入函数。修改了更新方式</p><p>2016.12.07 0.0.4.2000 接受小江的建议，移动了更新按钮的位置</p><p>2016.12.07 0.0.4.1931 动态化关于页面，添加了更新和卸载功能</p><p>2016.12.07 0.0.4.1423 为针对不同版本的SS服务端，添加了DNS防污染方式的开关</p><p>2016.12.05 0.0.3.1830 尝试修复SS问题</p><p>2016.12.05 0.0.2.1420 再次尝试修复ADM开机不会自动启动的问题，更新了gfw等规则</p><p>2016.12.04 0.0.2.2330 尝试修复了ADM开机不会自动启动的问题，同时修复若干小问题</p><p>2016.12.03 0.0.1.1730 修复了部分SS帐号无法连接的问题</p><p>MIWIFI PLUS界面风格和您手上的小米路由高度一致，浑然一体，让人没有唐突的感觉。不知情的人还会以为这是原版固件。若是碰上这样的家伙，你是不是可以告诉他：这是内部开发版，雷同志亲手给我的哟（手动斜眼）。</p><p>MIWIFI PLUS是非常小巧的，其中有ADM作者专门定制的优化版阿呆喵程序（体积比公开发布版更小巧），还有好人自己编译优化的其他第三方程序。在科学上网（SS）功能中舍弃了通常的利用第三方程序防污染做法，直接抛掉了一个多余的程序。使资源得以释放，运行更加高效。除了性能好，功能也实在，AD过滤，科学上网，内网穿透，远程访问路由等主要功能一应具全，而且相关功能不开启时不占用任何用内存空间及cpu运行时间。</p><p>说了这么好，我为什么要给你用啊？问得好！因为我是好人啊！</p><p>废话不多说了，上图！我们先看看再说！</p><h2 id="阿呆喵AD过滤，看视频无广告，现在支持多种模式切换，支持对https站点的过滤。"><a href="#阿呆喵AD过滤，看视频无广告，现在支持多种模式切换，支持对https站点的过滤。" class="headerlink" title="阿呆喵AD过滤，看视频无广告，现在支持多种模式切换，支持对https站点的过滤。"></a>阿呆喵AD过滤，看视频无广告，现在支持多种模式切换，支持对https站点的过滤。</h2><p>ADM官方网站：<a href="http://www.admflt.com/" target="_blank" rel="noopener">http://www.admflt.com/</a></p><p><img src="http://cdn.fds.api.xiaomi.com/b2c-bbs/cn/attachment/d3bab134b3978eaa6409c8ac07a86c6c.jpg" alt="miwifi plus" title="miwifi plus"></p><p><img src="http://cdn.fds.api.xiaomi.com/b2c-bbs/cn/attachment/a7e8e4674138eee0402f08bcef0b832c.jpg" alt="miwifi plus" title="miwifi plus"></p><p>著名的科学上网功能，Shadowsocks！支持多种模式切换，强力高效的dns防污染</p><p>系统，黑白名单设置！</p><h2 id="Shadowsocks开源项目的libev版fork：Github传送门"><a href="#Shadowsocks开源项目的libev版fork：Github传送门" class="headerlink" title="Shadowsocks开源项目的libev版fork：Github传送门"></a>Shadowsocks开源项目的libev版fork：<a href="https://github.com/shadowsocks/shadowsocks-libev" title="Github传送门" target="_blank" rel="noopener">Github传送门</a></h2><p><img src="http://cdn.fds.api.xiaomi.com/b2c-bbs/cn/attachment/84de81eeecfd9e50c40c659154b514aa.jpg" alt></p><p><img src="http://cdn.fds.api.xiaomi.com/b2c-bbs/cn/attachment/f0ee4756c7c6846d0921ced947ed65b4.jpg" alt></p><p>内网穿透功能，ngrok！内置高速服务器，免费使用。大局域网ip用户必备，折腾</p><p>爱好者必备，让你的网站可以享用高贵的80端口！</p><h2 id="ngrok开源项目的C语言版fork：Github传送门"><a href="#ngrok开源项目的C语言版fork：Github传送门" class="headerlink" title="ngrok开源项目的C语言版fork：Github传送门"></a>ngrok开源项目的C语言版fork：<a href="https://github.com/dosgo/ngrok-c" title="Github传送门" target="_blank" rel="noopener">Github传送门</a></h2><p><img src="http://cdn.fds.api.xiaomi.com/b2c-bbs/cn/attachment/ad36ab4d9b2d9ce4c9ab7d8d3b2b0ea4.jpg" alt></p><p>端口控制功能，简化版iptables ui！控制端口对公网开放或禁止。</p><p>开放22端口即可远程SSH，开放8098端口即可远程访问web管理界面。</p><p><img src="http://cdn.fds.api.xiaomi.com/b2c-bbs/cn/attachment/1565a8bdeaa820f37e1434e3322e1df5.jpg" alt></p><p>WEBSSH功能，一下子找不到ssh工具怎么办？现在直接登录小米路由就可咯（远程</p><p>访问请在端口控制页面开放4200端口）。</p><h2 id="shellinabox开源项目的fork（源作者已失踪，热心人士的fork继续更新，好人也"><a href="#shellinabox开源项目的fork（源作者已失踪，热心人士的fork继续更新，好人也" class="headerlink" title="shellinabox开源项目的fork（源作者已失踪，热心人士的fork继续更新，好人也"></a>shellinabox开源项目的fork（源作者已失踪，热心人士的fork继续更新，好人也</h2><p>为项目提供了一点源码修改）：<a href="https://github.com/shellinabox/shellinabox" title="Github传送门" target="_blank" rel="noopener">Github传送门</a></p><p><img src="http://cdn.fds.api.xiaomi.com/b2c-bbs/cn/attachment/bd63d7fec4b71a891a6bbd654ce215f4.jpg" alt></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;MIWIFI-PLUS（简称MP）一款基于小米路由风格的Luci插件&quot;&gt;&lt;a href=&quot;#MIWIFI-PLUS（简称MP）一款基于小米路由风格的Luci插件&quot; class=&quot;headerlink&quot; title=&quot;MIWIFI PLUS（简称MP）一款基于小米路由风格的Luci插件&quot;&gt;&lt;/a&gt;MIWIFI PLUS（简称MP）一款基于小米路由风格的Luci插件&lt;/h1&gt;
-    
-    </summary>
-    
-      <category term="软件" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-      <category term="插件" scheme="http://yoursite.com/tags/%E6%8F%92%E4%BB%B6/"/>
-    
-      <category term="小米" scheme="http://yoursite.com/tags/%E5%B0%8F%E7%B1%B3/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Visual Studio Code修改成中文</title>
     <link href="http://yoursite.com/2019/05/22/Visual%20Studio%20Code%E4%BF%AE%E6%94%B9%E6%88%90%E4%B8%AD%E6%96%87/"/>
     <id>http://yoursite.com/2019/05/22/Visual Studio Code修改成中文/</id>
@@ -459,6 +385,78 @@
       <category term="编辑器" scheme="http://yoursite.com/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
     
       <category term="code" scheme="http://yoursite.com/tags/code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown在线编辑器</title>
+    <link href="http://yoursite.com/2019/05/22/Markdown%E5%9C%A8%E7%BA%BF%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    <id>http://yoursite.com/2019/05/22/Markdown在线编辑器/</id>
+    <published>2019-05-22T02:38:13.000Z</published>
+    <updated>2019-05-22T15:15:03.862Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="欢迎使用-Markdown在线编辑器-MdEditor"><a href="#欢迎使用-Markdown在线编辑器-MdEditor" class="headerlink" title="欢迎使用 Markdown在线编辑器 MdEditor"></a>欢迎使用 Markdown在线编辑器 MdEditor</h1><p>Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。<br><a id="more"></a></p><p>相比WYSIWYG编辑器</p><h1 id="优点："><a href="#优点：" class="headerlink" title="优点："></a>优点：</h1><p>1、因为是纯文本，所以只要支持Markdown的地方都能获得一样的编辑效果，可以让作者摆脱排版的困扰，专心写作。<br>2、操作简单。比如:WYSIWYG编辑时标记个标题，先选中内容，再点击导航栏的标题按钮，选择几级标题。要三个步骤。而Markdown只需要在标题内容前加#即可</p><p>缺点：<br>1、需要记一些语法（当然，是很简单。五分钟学会）。<br>2、有些平台不支持Markdown编辑模式。</p><p>还好，简书是支持Markdown编辑模式的。</p><p>开启方式：设置-&gt;默认编辑器-&gt;Markdown编辑器</p><h2 id="一、标题"><a href="#一、标题" class="headerlink" title="一、标题"></a>一、标题</h2><p>在想要设置为标题的文字前面加#来表示<br>一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。</p><p>注：标准语法一般在#后跟个空格再写文字，貌似简书不加空格也行。</p><p>*# 这是一级标题 ## 这是二级标题 ### 这是三级标题 #### 这是四级标题 ##### 这是五级标题 ###### 这是六级标题<br>效果如下：<br>这是一级标题<br>这是二级标题<br>这是三级标题<br>这是四级标题<br>这是五级标题<br>这是六级标题</p><h2 id="二、字体"><a href="#二、字体" class="headerlink" title="二、字体"></a>二、字体</h2><p>加粗<br>要加粗的文字左右分别用两个*号包起来</p><p>斜体<br>要倾斜的文字左右分别用一个<em>号包起来<br>斜体加粗<br>要倾斜和加粗的文字左右分别用三个</em>号包起来</p><p>删除线<br>要加删除线的文字左右分别用两个<del>号包起来<br>示例：<br><strong>这是加粗的文字</strong> <em>这是倾斜的文字</em>` <strong><em>这是斜体加粗的文字</em></strong> ~~这是加删除线的文字</del><br>效果如下：<br>这是加粗的文字<br>这是倾斜的文字<br>这是斜体加粗的文字<br>这是加删除线的文字</p><h2 id="三、引用"><a href="#三、引用" class="headerlink" title="三、引用"></a>三、引用</h2><p>在引用的文字前加&gt;即可。引用也可以嵌套，如加两个&gt;&gt;三个&gt;&gt;&gt;<br>n个…<br>貌似可以一直加下去，但没神马卵用<br>示例：</p><blockquote><p>这是引用的内容 &gt;&gt;这是引用的内容 &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;这是引用的内容<br>效果如下：<br>这是引用的内容<br>这是引用的内容<br>这是引用的内容</p></blockquote><h2 id="四、分割线"><a href="#四、分割线" class="headerlink" title="四、分割线"></a>四、分割线</h2><p>三个或者三个以上的 – 或者 <em> 都可以。<br>示例：<br>— —- **</em> <strong>*</strong><br>效果如下：<br>可以看到，显示效果是一样的。</p><h2 id="五、图片"><a href="#五、图片" class="headerlink" title="五、图片"></a>五、图片</h2><p>语法：<br><img src="图片地址" alt="图片alt" title="&#39;图片title&#39;"><br>图片alt就是显示在图片下面的文字，相当于对图片内容的解释。 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加<br>示例：<br><img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/ u=702257389,1274025419&amp;fm=27&amp;gp=0.jpg" alt="blockchain" title="区块链"><br>效果如下：<br>blockchain<br>上传本地图片直接点击导航栏的图片标志，选择图片即可</p><h2 id="六、超链接"><a href="#六、超链接" class="headerlink" title="六、超链接"></a>六、超链接</h2><p>语法：<br><a href="超链接地址" title="超链接title">超链接名</a> title可加可不加<br>示例：<br><a href="http://jianshu.com" target="_blank" rel="noopener">简书</a> <a href="http://baidu.com" target="_blank" rel="noopener">百度</a><br>效果如下：<br>简书<br>百度<br>注：Markdown本身语法不支持链接在新页面中打开，貌似简书做了处理，是可以的。别的平台可能就不行了，如果想要在新页面中打开的话可以用html语言的a标签代替。<br><a href="超链接地址" target="_blank">超链接名</a> 示例 <a href="https://www.jianshu.com/u/1f5ac0cf6a8b" target="_blank">简书</a></p><h2 id="七、列表"><a href="#七、列表" class="headerlink" title="七、列表"></a>七、列表</h2><p>无序列表<br>语法：<br>无序列表用 – + * 任何一种都可以</p><ul><li>列表内容 + 列表内容 <em> 列表内容 注意：- + </em> 跟内容之间都要有一个空格<br>效果如下：<br>列表内容<br>列表内容<br>列表内容<br>有序列表<br>语法：<br>数字加点<br>1.列表内容 2.列表内容 3.列表内容 注意：序号跟内容之间要有空格<br>效果如下：<br>1.列表内容<br>2.列表内容<br>3.列表内容<br>列表嵌套<br>上一级和下一级之间敲三个空格即可<br>一级无序列表内容<br>二级无序列表内容<br>二级无序列表内容<br>二级无序列表内容<br>一级无序列表内容<br>二级有序列表内容<br>二级有序列表内容<br>二级有序列表内容<br>一级有序列表内容<br>二级无序列表内容<br>二级无序列表内容<br>二级无序列表内容<br>一级有序列表内容<br>二级有序列表内容<br>二级有序列表内容<br>二级有序列表内容<h2 id="八、表格"><a href="#八、表格" class="headerlink" title="八、表格"></a>八、表格</h2>语法：<br>表头|表头|表头 —|:–:|—: 内容|内容|内容 内容|内容|内容 第二行分割表头和内容。 - 有一个就行，为了对齐，多加了几个 文字默认居左 -两边加：表示文字居中 -右边加：表示文字居右 注：原生的语法两边都要用 | 包起来。此处省略<br>示例：<br>姓名|技能|排行 –|:–:|–: 刘备|哭|大哥 关羽|打|二哥 张飞|骂|三弟<br>效果如下：<br>姓名    技能    排行<br>刘备    哭    大哥<br>关羽    打    二哥<br>张飞    骂    三弟<h2 id="九、代码"><a href="#九、代码" class="headerlink" title="九、代码"></a>九、代码</h2>语法：<br>单行代码：代码之间分别用一个反引号包起来<br><code>代码内容</code><br>代码块：代码之间分别用三个反引号包起来，且两边的反引号单独占一行<br>(<figure class="highlight plain"><figcaption><span>代码... 代码... 代码... (```)</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">注：为了防止转译，前后三个反引号处加了小括号，实际是没有的。这里只是用来演示，实际中去掉两边小括号即可。</span><br><span class="line">示例：</span><br><span class="line">单行代码</span><br><span class="line">`create database hero;`</span><br><span class="line">代码块</span><br><span class="line">(```) function fun()&#123; echo &quot;这是一句非常牛逼的代码&quot;; &#125; fun(); (```)</span><br><span class="line">效果如下：</span><br><span class="line">单行代码</span><br><span class="line">create database hero;</span><br><span class="line">代码块</span><br><span class="line">function fun()&#123; echo &quot;这是一句非常牛逼的代码&quot;; &#125; fun();</span><br><span class="line">## 十、流程图</span><br><span class="line">```flow st=&gt;start: 开始 op=&gt;operation: My Operation cond=&gt;condition: Yes or No? e=&gt;end st-&gt;op-&gt;cond cond(yes)-&gt;e cond(no)-&gt;op &amp;</span><br></pre></td></tr></table></figure></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;欢迎使用-Markdown在线编辑器-MdEditor&quot;&gt;&lt;a href=&quot;#欢迎使用-Markdown在线编辑器-MdEditor&quot; class=&quot;headerlink&quot; title=&quot;欢迎使用 Markdown在线编辑器 MdEditor&quot;&gt;&lt;/a&gt;欢迎使用 Markdown在线编辑器 MdEditor&lt;/h1&gt;&lt;p&gt;Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="编辑器" scheme="http://yoursite.com/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>协办员信息变更所需资料</title>
+    <link href="http://yoursite.com/2019/05/19/%E5%8D%8F%E5%8A%9E%E5%91%98%E4%BF%A1%E6%81%AF%E5%8F%98%E6%9B%B4%E6%89%80%E9%9C%80%E8%B5%84%E6%96%99/"/>
+    <id>http://yoursite.com/2019/05/19/协办员信息变更所需资料/</id>
+    <published>2019-05-19T02:13:35.000Z</published>
+    <updated>2019-05-22T16:44:12.371Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="新任协办员需要提交"><a href="#新任协办员需要提交" class="headerlink" title="新任协办员需要提交"></a>新任协办员需要提交</h1><p>1.身份证复印件、</p><p>2.户口本（户主、本人）复印件、</p><p>3.邮政储蓄卡复印件.  </p><p>4.协办员资格认证表（乡里面找）  </p><p>5.村委的任用表（本村***有资格担任协办员一职），盖村委的章</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="新闻" scheme="http://yoursite.com/categories/%E6%96%B0%E9%97%BB/"/>
+    
+    
+      <category term="养老保险" scheme="http://yoursite.com/tags/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>养老保险收据规范</title>
+    <link href="http://yoursite.com/2019/05/19/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E6%94%B6%E6%8D%AE%E8%A7%84%E8%8C%83/"/>
+    <id>http://yoursite.com/2019/05/19/养老保险收据规范/</id>
+    <published>2019-05-19T01:46:59.000Z</published>
+    <updated>2019-05-22T16:45:38.643Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol><li>四联书写清晰、第二联交予缴费人，第一、三联交予财务，第四联交予政务大厅养老保险窗口</li><li><p>协办员上交当面每页清点清楚  </p></li><li><p>养老保险首页联填写填开张数、折废张数（码号写清楚多少到多少）</p></li><li>首页联写上这本发票的总金额，经办人写上名字</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="新闻" scheme="http://yoursite.com/categories/%E6%96%B0%E9%97%BB/"/>
+    
+    
+      <category term="养老保险" scheme="http://yoursite.com/tags/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9/"/>
     
   </entry>
   
