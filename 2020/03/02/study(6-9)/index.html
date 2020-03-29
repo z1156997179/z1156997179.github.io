@@ -122,18 +122,18 @@
 
 
 
-<meta name="description" content="day06-跳转语句、嵌套循环、随机数、IDEA1、跳转语句1、brebkbreak:打断，跳出 break的作用:结束整个循环，break在switch或循环中使用。 1234567891011121314public class Test01 &amp;#123;    public static void main(String[] args) &amp;#123;        //break switc">
+<meta name="description" content="day06-跳转语句、嵌套循环、随机数、IDEA1、跳转语句1、breakbreak:打断，跳出 break的作用:结束整个循环，break在switch或循环中使用。 1234567891011121314public class Test01 &amp;#123;    public static void main(String[] args) &amp;#123;        //break switc">
 <meta name="keywords" content="学习">
 <meta property="og:type" content="article">
 <meta property="og:title" content="study(6-9)">
 <meta property="og:url" content="http://yoursite.com/2020/03/02/study(6-9)/index.html">
 <meta property="og:site_name" content="Zzg">
-<meta property="og:description" content="day06-跳转语句、嵌套循环、随机数、IDEA1、跳转语句1、brebkbreak:打断，跳出 break的作用:结束整个循环，break在switch或循环中使用。 1234567891011121314public class Test01 &amp;#123;    public static void main(String[] args) &amp;#123;        //break switc">
+<meta property="og:description" content="day06-跳转语句、嵌套循环、随机数、IDEA1、跳转语句1、breakbreak:打断，跳出 break的作用:结束整个循环，break在switch或循环中使用。 1234567891011121314public class Test01 &amp;#123;    public static void main(String[] args) &amp;#123;        //break switc">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2020-03-08T11:16:32.841Z">
+<meta property="og:updated_time" content="2020-03-24T15:22:37.022Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="study(6-9)">
-<meta name="twitter:description" content="day06-跳转语句、嵌套循环、随机数、IDEA1、跳转语句1、brebkbreak:打断，跳出 break的作用:结束整个循环，break在switch或循环中使用。 1234567891011121314public class Test01 &amp;#123;    public static void main(String[] args) &amp;#123;        //break switc">
+<meta name="twitter:description" content="day06-跳转语句、嵌套循环、随机数、IDEA1、跳转语句1、breakbreak:打断，跳出 break的作用:结束整个循环，break在switch或循环中使用。 1234567891011121314public class Test01 &amp;#123;    public static void main(String[] args) &amp;#123;        //break switc">
 
 
 
@@ -474,7 +474,7 @@
       
 
       
-        <h1 id="day06-跳转语句、嵌套循环、随机数、IDEA"><a href="#day06-跳转语句、嵌套循环、随机数、IDEA" class="headerlink" title="day06-跳转语句、嵌套循环、随机数、IDEA"></a><font color="red">day06-跳转语句、嵌套循环、随机数、IDEA</font></h1><h2 id="1、跳转语句"><a href="#1、跳转语句" class="headerlink" title="1、跳转语句"></a><font color="green">1、跳转语句</font></h2><h3 id="1、brebk"><a href="#1、brebk" class="headerlink" title="1、brebk"></a>1、brebk</h3><pre><code>break:打断，跳出
+        <h1 id="day06-跳转语句、嵌套循环、随机数、IDEA"><a href="#day06-跳转语句、嵌套循环、随机数、IDEA" class="headerlink" title="day06-跳转语句、嵌套循环、随机数、IDEA"></a><font color="red">day06-跳转语句、嵌套循环、随机数、IDEA</font></h1><h2 id="1、跳转语句"><a href="#1、跳转语句" class="headerlink" title="1、跳转语句"></a><font color="green">1、跳转语句</font></h2><h3 id="1、break"><a href="#1、break" class="headerlink" title="1、break"></a>1、break</h3><pre><code>break:打断，跳出
 break的作用:结束整个循环，break在switch或循环中使用。
 </code></pre><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Test01</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">        <span class="comment">//break switch或loop外部打断</span></span><br><span class="line">        <span class="comment">//连续说5天我爱你</span></span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">1</span>;i &lt;= <span class="number">5</span>;i++) &#123;</span><br><span class="line">            <span class="comment">//i=1,2</span></span><br><span class="line">            System.out.println(<span class="string">"第"</span> + i + <span class="string">"我爱你"</span>);</span><br><span class="line">            <span class="comment">//在第二天说完后，提前结束循环</span></span><br><span class="line">            <span class="keyword">if</span>(i == <span class="number">2</span>)&#123;</span><br><span class="line">                <span class="keyword">break</span>;  <span class="comment">//结束整个循环</span></span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <a id="more"></a>
@@ -550,6 +550,10 @@ continue的作用:结束本次循环，进行下次循环
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2020/03/25/html/" rel="prev" title>
+                 <i class="fa fa-chevron-right"></i>
+              </a>
             
           </div>
         </div>
@@ -631,7 +635,7 @@ continue的作用:结束本次循环，进行下次循环
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">30</span>
+                  <span class="site-state-item-count">31</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -750,7 +754,7 @@ continue的作用:结束本次循环，进行下次循环
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#day06-跳转语句、嵌套循环、随机数、IDEA"><span class="nav-text">day06-跳转语句、嵌套循环、随机数、IDEA</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#1、跳转语句"><span class="nav-text">1、跳转语句</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1、brebk"><span class="nav-text">1、brebk</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2、continue"><span class="nav-text">2、continue</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3、死循环的格式"><span class="nav-text">3、死循环的格式</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2、嵌套循环"><span class="nav-text">2、嵌套循环</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#格式"><span class="nav-text">格式</span></a></li></ol></li></ol></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#day06-跳转语句、嵌套循环、随机数、IDEA"><span class="nav-text">day06-跳转语句、嵌套循环、随机数、IDEA</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#1、跳转语句"><span class="nav-text">1、跳转语句</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1、break"><span class="nav-text">1、break</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2、continue"><span class="nav-text">2、continue</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3、死循环的格式"><span class="nav-text">3、死循环的格式</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2、嵌套循环"><span class="nav-text">2、嵌套循环</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#格式"><span class="nav-text">格式</span></a></li></ol></li></ol></li></ol></div>
             
 
           </div>
