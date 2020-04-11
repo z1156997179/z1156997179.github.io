@@ -468,77 +468,14 @@
 
       
         
-          
-            <h1 id="会计常用的Excel函数公式大全"><a href="#会计常用的Excel函数公式大全" class="headerlink" title="会计常用的Excel函数公式大全"></a>会计常用的Excel函数公式大全</h1><h3 id="一、员工信息表公式"><a href="#一、员工信息表公式" class="headerlink" title="一、员工信息表公式 "></a>一、员工信息表公式 <br></h3><p><img src="https://potoshop-1251602024.cos.ap-beijing.myqcloud.com/excel1.jpg" alt="excel1" title="excel1">   <br><br>1、计算性别(F列)</p>
-<p>=IF(MOD(MID(E3,17,1),2),”男”,”女”)</p>
-<p>2、出生年月(G列)</p>
-<p>=TEXT(MID(E3,7,8),”0-00-00”)</p>
-<p>3、年龄公式(H列)</p>
-<p>=DATEDIF(G3,TODAY(),”y”)</p>
-<p>4、退休日期(I列)</p>
-<p>=TEXT(EDATE(G3,12<em>(5</em>(F3=”男”)+55)),”yyyy/mm/dd aaaa”)</p>
-<p>5、籍贯(M列)</p>
-<p>=VLOOKUP(LEFT(E3,6)*1,地址库!E:F,2,)</p>
-<p>注：附带示例中有地址库代码表 <br><br><br><img src="https://potoshop-1251602024.cos.ap-beijing.myqcloud.com/excel2.jpg" alt="excel2" title="excel2">  <br><br>6、社会工龄(T列)</p>
-<p>=DATEDIF(S3,NOW(),”y”)</p>
-<p>7、公司工龄(W列)</p>
-<p>=DATEDIF(V3,NOW(),”y”)&amp;”年”&amp;DATEDIF(V3,NOW(),”ym”)&amp;”月”&amp;DATEDIF(V3,NOW(),”md”)&amp;”天”</p>
-<p>8、合同续签日期(Y列)</p>
-<p>=DATE(YEAR(V3)+LEFTB(X3,2),MONTH(V3),DAY(V3))-1</p>
-<p>9、合同到期日期(Z列)</p>
-<p>=TEXT(EDATE(V3,LEFTB(X3,2)*12)-TODAY(),”[&lt;0]过期0天;[&lt;30]即将到期0天;还早”)</p>
-<p>10、工龄工资(AA列)</p>
-<p>=MIN(700,DATEDIF($V3,NOW(),”y”)*50)</p>
-<p>11、生肖(AB列)</p>
-<p>=MID(“猴鸡狗猪鼠牛虎兔龙蛇马羊”,MOD(MID(E3,7,4),12)+1,1)</p>
-<h3 id="二、考勤表公式"><a href="#二、考勤表公式" class="headerlink" title="二、考勤表公式  "></a>二、考勤表公式  <br></h3><p><img src="https://potoshop-1251602024.cos.ap-beijing.myqcloud.com/excel3.jpg" alt="excel3" title="excel3">  <br></p>
-<p>1、本月工作日天数(AG列)</p>
-<p>=NETWORKDAYS(B$5,DATE(YEAR(N$4),MONTH(N$4)+1,),)</p>
-<p>2、调休天数公式(AI列)</p>
-<p>=COUNTIF(B9:AE9,”调”)</p>
-<p>3、扣钱公式(AO列)</p>
-<p>婚丧扣10块，病假扣20元，事假扣30元，矿工扣50元</p>
-<p>=SUM((B9:AE9={“事”;”旷”;”病”;”丧”;”婚”})*{30;50;20;10;10})</p>
-<h3 id="三、数据分析公式"><a href="#三、数据分析公式" class="headerlink" title="三、数据分析公式"></a>三、数据分析公式</h3><p><img src="https://potoshop-1251602024.cos.ap-beijing.myqcloud.com/excel4.jpg" alt="excel4" title="excel4">  <br></p>
-<p>1、本科学历人数</p>
-<p>=COUNTIF(D:D,”本科”)</p>
-<p>2、办公室本科学历人数</p>
-<p>=COUNTIFS(A:A,”办公室”,D:D,”本科”)</p>
-<p>3、30~40岁总人数</p>
-<p>=COUNTIFS(F:F,”&gt;=30”,F:F,”&lt;40”)</p>
-<h3 id="四、其他公式"><a href="#四、其他公式" class="headerlink" title="四、其他公式"></a>四、其他公式</h3><p>1、提成比率计算</p>
-<p>=VLOOKUP(B3,$C$12:$E$21,3)</p>
-<p><img src="https://potoshop-1251602024.cos.ap-beijing.myqcloud.com/excel5.jpg" alt="excel5" title="excel5">  <br></p>
-<p>2、个人所得税计算</p>
-<p>假如A2中是应税工资，则计算个税公式为：</p>
-<p>=5<em>MAX(A2</em>{0.6,2,4,5,6,7,9}%-{21,91,251,376,761,1346,3016},)</p>
-<p>3、工资条公式</p>
-<p>=CHOOSE(MOD(ROW(A3),3)+1,工资数据源!A$1,OFFSET(工资数据源!A$1,INT(ROW(A3)/3),,),””)</p>
-<p>注：</p>
-<p>A3:标题行的行数+2,如果标题行在第3行，则A3改为A5  <br><br>工资数据源!A$1:工资表的标题行的第一列位置</p>
-<p><iframe height="500" width="600" src="https://potoshop-1251602024.cos.ap-beijing.myqcloud.com/excel6.gif"></iframe>   <br></p>
-<p>4、Countif函数统计身份证号码出错的解决方法</p>
-<p>由于Excel中数字只能识别15位内的，在Countif统计时也只会统计前15位，所以很容易出错。不过只需要用 &amp;”*”转换为文本型即可正确统计。</p>
-<p>=Countif(A:A,A2&amp;”*”)  <br></p>
-<p><img src="https://potoshop-1251602024.cos.ap-beijing.myqcloud.com/excel7.jpg" alt="excel7" title="excel7">  <br></p>
-<h3 id="五、利用数据透视表完成数据分析"><a href="#五、利用数据透视表完成数据分析" class="headerlink" title="五、利用数据透视表完成数据分析"></a>五、利用数据透视表完成数据分析</h3><p><img src="https://potoshop-1251602024.cos.ap-beijing.myqcloud.com/excel8.jpg" alt="excel8" title="excel8">  <br></p>
-<p>1、各部门人数占比</p>
-<p>统计每个部门占总人数的百分比</p>
-<p><iframe height="500" width="600" src="https://potoshop-1251602024.cos.ap-beijing.myqcloud.com/excel9.gif"></iframe>   <br>  <br></p>
-<p>2、各个年龄段人数和占比</p>
-<p>公司员工各个年龄段的人数和占比各是多少呢？</p>
-<p><iframe height="500" width="600" src="https://potoshop-1251602024.cos.ap-beijing.myqcloud.com/excel10.gif"></iframe>   <br>  <br></p>
-<p>3、各个部门各年龄段占比</p>
-<p>分部门统计本部门各个年龄段的占比情况</p>
-<p><iframe height="500" width="600" src="https://potoshop-1251602024.cos.ap-beijing.myqcloud.com/excel11.gif"></iframe>   <br>  <br></p>
-<p>4、各部门学历统计</p>
-<p>各部门大专、本科、硕士和博士各有多少人呢？</p>
-<p><iframe height="500" width="600" src="https://potoshop-1251602024.cos.ap-beijing.myqcloud.com/excel12.gif"></iframe>   <br>  <br></p>
-<p>5、按年份统计各部门入职人数</p>
-<p>每年各部门入职人数情况</p>
-<p><iframe height="500" width="600" src="https://potoshop-1251602024.cos.ap-beijing.myqcloud.com/excel13.gif"></iframe>   <br>  <br></p>
-
-          
+          <h1 id="会计常用的Excel函数公式大全"><a href="#会计常用的Excel函数公式大全" class="headerlink" title="会计常用的Excel函数公式大全"></a>会计常用的Excel函数公式大全</h1><h3 id="一、员工信息表公式"><a href="#一、员工信息表公式" class="headerlink" title="一、员工信息表公式 "></a>一、员工信息表公式 <br></h3><p><img src="https://potoshop-1251602024.cos.ap-beijing.myqcloud.com/excel1.jpg" alt="excel1" title="excel1">   <br></p>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2020/04/11/excel/" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
         
       
     </div>
@@ -1563,7 +1500,7 @@ break的作用:结束整个循环，break在switch或循环中使用。
     
       <span class="post-meta-item-text">本站共</span>
     
-    <span title="Site words total count">17.2k 字</span>
+    <span title="Site words total count">17.1k 字</span>
   
 </div>
 
