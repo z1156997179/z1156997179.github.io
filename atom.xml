@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-11T05:51:56.295Z</updated>
+  <updated>2020-07-05T14:50:30.874Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日记</title>
+    <link href="http://yoursite.com/2020/07/05/%E6%97%A5%E8%AE%B0/"/>
+    <id>http://yoursite.com/2020/07/05/日记/</id>
+    <published>2020-07-05T14:27:01.000Z</published>
+    <updated>2020-07-05T14:50:30.874Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>  &nbsp;&nbsp;&nbsp;&nbsp;不知不觉已经过了很久了，时间过的很快也很慢，回老家又成了一个啃老族了，嗯嗯嗯嗯。。。活着好难呀。   <br><br>  &nbsp;&nbsp;&nbsp;&nbsp;希望大家</p><p>  <b><h2>多学习，多学习，多学习</h2></b></p><p>  书到用时方恨少！</p><p><font color="red">安利最近使用的语音录制平台</font><br><a href="https://yuedu.data-baker.com/" target="_blank" rel="noopener">https://yuedu.data-baker.com/</a></p><h2><b>配合idm,让网站无奈的神器，所有语音都可以免费下载</b></h2><p>  本文所用符号:<br>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">空格   &amp;nbsp;</span><br><span class="line">换行   &lt;br&gt;</span><br><span class="line">字体变色   &lt;font color=颜色&gt;文本&lt;/font&gt;</span><br><span class="line">字体加粗  &lt;b&gt;文本&lt;/b&gt;</span><br><span class="line">字体大小  &lt;h2&gt;文本&lt;/h2&gt;</span><br></pre></td></tr></table></figure></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="日常" scheme="http://yoursite.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+      <category term="心得" scheme="http://yoursite.com/tags/%E5%BF%83%E5%BE%97/"/>
+    
+  </entry>
   
   <entry>
     <title>excel公式</title>
@@ -119,7 +144,7 @@ break的作用:结束整个循环，break在switch或循环中使用。
     <published>2019-12-13T14:03:40.000Z</published>
     <updated>2020-01-12T02:41:36.208Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="密码填写处内容" />    <label for="pass">密码填写处内容</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">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</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="密码填写处内容" />    <label for="pass">密码填写处内容</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">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</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
     
     <summary type="html">
     
@@ -141,7 +166,7 @@ break的作用:结束整个循环，break在switch或循环中使用。
     <published>2019-10-04T06:34:53.000Z</published>
     <updated>2020-01-12T03:30:28.043Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="输入密码，查看文章" />    <label for="pass">输入密码，查看文章</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX19DSAiXykwZTs4wfryVe+BFk+WTnvvqA5f3GEnEaARFfkZnBHV+4mWNqmIfApOb26Vk3Hh856X3OzuE93UJHKjl5K6Ss4Cvc6RTyGW2KycOM9IcgPaiSYVFL5Dvq9duBb/oy7SzfTKHPiABSl3C0ukWfRZ7rAiaHE4Gpo9tfwpN/77zjsu9J1J5gUc8aI1xEe0IhtJPxKJsiNdHmyylKGBtCFsGtzcG+jWmcjQLAgNDO2Ik6DlAC1ygrqIpCP88sDvLaUnKJ28h5xMIWv8dOQpGeVOZlqdODIxpSRFXYq5JmqIomhVTHNpZfOJNmwXIbI6DxSHi6Ge91gLXb2O5UvjVYTH4gTrlEWBm8wk0L7LEUvPZVNr9IEOpFxv2b5Aw8W1oCocCIIDx3S1lhwTUgiSoQPgN9K+iBaTunYE7EQu6snLPGVe3z96QeyHvPM2Om+6AnHy+gf5/ygG1MTRyP2UVrdfJI5fTLxbnatnduudsSg+m0rvPcTPVrfIPcfYS15FaxoVJfxzDCXKHa7BhnWf89YqFfdppiZ0AraL8IRAhFXHrfC+uvJfvI5b3QYKs40iiqRrbB8qUGb5AY6EAelcIcFDo77pdqQlZwfgp+Gq79stn+pH79KC9OwF51wbifzmq8iFSKJTdZ0eCsY2a02u0QdbU2r27e01AGbWe5jsUQ3yWmoRgMzTpiuaiQAuONJ8zzVDahFFjZ4HJJ0vZuy9oBoiRWDvxcwE=</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="输入密码，查看文章" />    <label for="pass">输入密码，查看文章</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1+TI0azsw/zWl6UyxuqsPAUgfcbVEHQMHAYgMWqT9YuUt0n5qwQbFDRFaVf7LhuUu+pMq50pUWGanNhYfum0LmJxQXgAaUgUST0XQKfLccQghE6CB1uh0SAxSxefdi92qy/cRwRFNyAetX5r0MlJMjk7kRzcXrGIOG2CUli6B2iuIe7gSkREuY6ZGBoJyCAaNE05hJYAbjcLloYxlq+TGcvtQplGVQFi3vXIi7vzMz7KPdJ7/nnNMi7JBUbQTCD+bE4KhU0NbrZsyVEQJlQGT8IWY3UJJoiSEXUeFl3roxsgzl8O6LdlNw/ij36TRhLKSeVqngLfIjaQwSVmcecOXAETbstOsa7NmAhHIeQqH5OIFuf0UspmxhESxQQVVAVhzyaNshgLFj48ZGgnYGtxPFM/7s9PwOhZqL9drlB+UOY4TNdYdRQGMHSGSJWMY796YXpsWo3v7NbLTDxfu/WhmMlWR0EuF07I4YITQ+SrHUAEsQT0+fl7Eu0knZB50Pdx3ev4W5JpY78r1UbkkjFD2uLKsOw1QGJ03wHF72eRA2g21fDtP5IKwN9SS6yQXDIIQdZQmn+iZX50BqXLsb5cX3nbJlbZVmtJ/LBFc0Fraf60mdt6ClsfqNNXAGRV/c9caaSw3YJ4tRSt4gFyd1+Jc8yHRNPzaaF1dBMuRD2x59/gay25376b5tIXkwgLO0s1ieL/LsJG170X6n2JXbETt4Z9WOL/RlvqDs=</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
     
     <summary type="html">
     
@@ -445,31 +470,6 @@ break的作用:结束整个循环，break在switch或循环中使用。
     
     
       <category term="编辑器" scheme="http://yoursite.com/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>协办员信息变更所需资料</title>
-    <link href="http://yoursite.com/2019/05/19/%E5%8D%8F%E5%8A%9E%E5%91%98%E4%BF%A1%E6%81%AF%E5%8F%98%E6%9B%B4%E6%89%80%E9%9C%80%E8%B5%84%E6%96%99/"/>
-    <id>http://yoursite.com/2019/05/19/协办员信息变更所需资料/</id>
-    <published>2019-05-19T02:13:35.000Z</published>
-    <updated>2020-01-12T03:32:32.434Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="新任协办员需要提交"><a href="#新任协办员需要提交" class="headerlink" title="新任协办员需要提交"></a>新任协办员需要提交</h1><p>1.身份证复印件、</p><p>2.户口本（户主、本人）复印件、</p><p>3.邮政储蓄卡复印件.  </p><p>4.协办员资格认证表（乡里面找）  </p><p>5.村委的任用表（本村***有资格担任协办员一职），盖村委的章</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-      <category term="养老保险" scheme="http://yoursite.com/categories/%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9/"/>
-    
-    
-      <category term="变更" scheme="http://yoursite.com/tags/%E5%8F%98%E6%9B%B4/"/>
     
   </entry>
   
